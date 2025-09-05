@@ -1,0 +1,5267 @@
+[
+  {
+    "State": "Maharashtra",
+    "Year": 2016,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 3660,
+    "Feedback_Score": 3.06,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"TV\", \"Online\", \"In-person\", \"Radio\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Maharashtra",
+    "Year": 2016,
+    "Program_Type": "School Workshop",
+    "People_Reached": 4075,
+    "Feedback_Score": 1.54,
+    "Organizer": "University",
+    "Details": "{'channels': ['TV', 'Online'], 'follow_up': None}"
+  },
+  {
+    "State": "Maharashtra",
+    "Year": 2016,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 825,
+    "Feedback_Score": 3.23,
+    "Organizer": "University",
+    "Details": "{'channels': ['TV', 'Radio'], 'follow_up': None}"
+  },
+  {
+    "State": "MAHARASHTRA",
+    "Year": 2017,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 2754,
+    "Feedback_Score": 4.44,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"Radio\", \"In-person\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Maharashtra",
+    "Year": 2017,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 8213,
+    "Feedback_Score": 4.8,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"TV\", \"Radio\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Maharashtra",
+    "Year": 2018,
+    "Program_Type": "School Workshop",
+    "People_Reached": 3242,
+    "Feedback_Score": 4.76,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"In-person\"], \"follow_up\": true}"
+  },
+  {
+    "State": "MAHARASHTRA",
+    "Year": 2018,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 243,
+    "Feedback_Score": 4.63,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"In-person\", \"TV\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Maharashtra",
+    "Year": 2018,
+    "Program_Type": "School Workshop",
+    "People_Reached": 649,
+    "Feedback_Score": 4.83,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"Online\", \"TV\", \"Radio\", \"In-person\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Maharashtra",
+    "Year": 2019,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 5980,
+    "Feedback_Score": 1.91,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"Online\", \"Radio\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Maharashtra",
+    "Year": 2019,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 1145,
+    "Feedback_Score": 4.32,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"Radio\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Maharashtra",
+    "Year": 2019,
+    "Program_Type": "School Workshop",
+    "People_Reached": 2685,
+    "Feedback_Score": 1.81,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"In-person\", \"Online\", \"Radio\", \"TV\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Maharashtra",
+    "Year": 2020,
+    "Program_Type": "School Workshop",
+    "People_Reached": 8241,
+    "Feedback_Score": 4.07,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"TV\", \"Radio\", \"Online\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Maharashtra",
+    "Year": 2020,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 4067,
+    "Feedback_Score": 3.04,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"TV\", \"Radio\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Maharashtra",
+    "Year": 2020,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 5988,
+    "Feedback_Score": 2.46,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"In-person\", \"TV\", \"Radio\", \"Online\"], \"follow_up\": null}"
+  },
+  {
+    "State": "MAHARASHTRA",
+    "Year": 2020,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 9093,
+    "Feedback_Score": 3.71,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"In-person\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Maharashtra",
+    "Year": 2021,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 1795,
+    "Feedback_Score": 2.82,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"Online\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Maharashtra",
+    "Year": 2022,
+    "Program_Type": "School Workshop",
+    "People_Reached": 1298,
+    "Feedback_Score": 3.11,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"Online\", \"Radio\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Maharashtra",
+    "Year": 2022,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 6449,
+    "Feedback_Score": 4.23,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"Online\", \"Radio\"], \"follow_up\": null}"
+  },
+  {
+    "State": "maharashtra",
+    "Year": 2022,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 2330,
+    "Feedback_Score": 4.43,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"TV\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Maharashtra",
+    "Year": 2022,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 6931,
+    "Feedback_Score": 2.6,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Online\"], \"follow_up\": false}"
+  },
+  {
+    "State": "TamilNadu",
+    "Year": 2016,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 5130,
+    "Feedback_Score": 2.36,
+    "Organizer": "Private",
+    "Details": "{'channels': ['Radio', 'In-person'], 'follow_up': True}"
+  },
+  {
+    "State": "TamilNadu",
+    "Year": 2017,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 9951,
+    "Feedback_Score": 2.28,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"Radio\", \"TV\", \"Online\", \"In-person\"], \"follow_up\": false}"
+  },
+  {
+    "State": "TamilNadu",
+    "Year": 2017,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 5903,
+    "Feedback_Score": 1.01,
+    "Organizer": "Private",
+    "Details": "{'channels': ['Radio'], 'follow_up': False}"
+  },
+  {
+    "State": "Tamil-Nadu",
+    "Year": 2017,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 6351,
+    "Feedback_Score": 4.94,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"TV\", \"In-person\", \"Radio\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Tamil-Nadu",
+    "Year": 2018,
+    "Program_Type": "SchoolWorkshop",
+    "People_Reached": 1971,
+    "Feedback_Score": 2.84,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Radio\", \"TV\", \"In-person\", \"Online\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Tamil-Nadu",
+    "Year": 2018,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 6584,
+    "Feedback_Score": 3.28,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"Radio\", \"TV\", \"Online\"], \"follow_up\": true}"
+  },
+  {
+    "State": "TamilNadu",
+    "Year": 2018,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 150,
+    "Feedback_Score": 4.75,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"Online\", \"TV\"], \"follow_up\": true}"
+  },
+  {
+    "State": "tamil nadu",
+    "Year": 2019,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 3414,
+    "Feedback_Score": 4.75,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"Online\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Tamig Nadu",
+    "Year": 2019,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 1482,
+    "Feedback_Score": 3.93,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"TV\", \"In-person\"], \"follow_up\": null}"
+  },
+  {
+    "State": "TAMIL NADU",
+    "Year": 2019,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 3495,
+    "Feedback_Score": 4.27,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"In-person\", \"Radio\"], \"follow_up\": true}"
+  },
+  {
+    "State": "tamil nadu",
+    "Year": 2019,
+    "Program_Type": "School Workshop",
+    "People_Reached": 2844,
+    "Feedback_Score": 1.16,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"TV\", \"In-person\", \"Radio\"], \"follow_up\": true}"
+  },
+  {
+    "State": "tamil nadu",
+    "Year": 2020,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 6526,
+    "Feedback_Score": 1.65,
+    "Organizer": "NGO",
+    "Details": "{'channels': ['TV', 'Online', 'Radio'], 'follow_up': True}"
+  },
+  {
+    "State": "tamil nadu",
+    "Year": 2020,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 3300,
+    "Feedback_Score": 3.31,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"In-person\", \"Online\", \"TV\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Tamil Nadu",
+    "Year": 2020,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 1201,
+    "Feedback_Score": 2.04,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"In-person\"], \"follow_up\": null}"
+  },
+  {
+    "State": "TamilNadu",
+    "Year": 2021,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 6945,
+    "Feedback_Score": 2.7,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"In-person\", \"TV\", \"Radio\"], \"follow_up\": null}"
+  },
+  {
+    "State": "tamil nadu",
+    "Year": 2021,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 5560,
+    "Feedback_Score": 4.99,
+    "Organizer": "NGO",
+    "Details": "{'channels': ['In-person', 'TV', 'Radio', 'Online'], 'follow_up': False}"
+  },
+  {
+    "State": "TAMIL NADU",
+    "Year": 2021,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 608,
+    "Feedback_Score": 4.38,
+    "Organizer": "Private",
+    "Details": "{'channels': ['TV', 'In-person'], 'follow_up': False}"
+  },
+  {
+    "State": "TAMIL NADU",
+    "Year": 2021,
+    "Program_Type": "School Workshop",
+    "People_Reached": 1822,
+    "Feedback_Score": 1.21,
+    "Organizer": "University",
+    "Details": "{'channels': ['Online'], 'follow_up': False}"
+  },
+  {
+    "State": "tamil nadu",
+    "Year": 2022,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 7337,
+    "Feedback_Score": 3.91,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Online\", \"TV\"], \"follow_up\": true}"
+  },
+  {
+    "State": "TamilNadu",
+    "Year": 2022,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 4092,
+    "Feedback_Score": 3.21,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"Online\", \"Radio\", \"In-person\", \"TV\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Tamil-Nadu",
+    "Year": 2022,
+    "Program_Type": "SchoolWorkshop",
+    "People_Reached": 6934,
+    "Feedback_Score": 1.77,
+    "Organizer": "University",
+    "Details": "{'channels': ['In-person', 'Radio', 'Online'], 'follow_up': None}"
+  },
+  {
+    "State": "kerala",
+    "Year": 2016,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 4185,
+    "Feedback_Score": 3.55,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"Radio\"], \"follow_up\": true}"
+  },
+  {
+    "State": "KERALA",
+    "Year": 2016,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 4751,
+    "Feedback_Score": 4.04,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"Online\", \"In-person\", \"Radio\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Kerala",
+    "Year": 2016,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 2621,
+    "Feedback_Score": 2.37,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"TV\"], \"follow_up\": false}"
+  },
+  {
+    "State": "KERALA",
+    "Year": 2016,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 3458,
+    "Feedback_Score": 4.56,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"Radio\", \"In-person\", \"TV\", \"Online\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Kcrala",
+    "Year": 2017,
+    "Program_Type": "School Workshop",
+    "People_Reached": 834,
+    "Feedback_Score": 3.58,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"TV\", \"Radio\"], \"follow_up\": false}"
+  },
+  {
+    "State": "kerala",
+    "Year": 2018,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 9747,
+    "Feedback_Score": 2.41,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"In-person\", \"TV\", \"Radio\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Kerala",
+    "Year": 2019,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 268,
+    "Feedback_Score": 1.33,
+    "Organizer": "Govt",
+    "Details": "{'channels': ['In-person', 'Radio', 'Online', 'TV'], 'follow_up': False}"
+  },
+  {
+    "State": "Kerala",
+    "Year": 2020,
+    "Program_Type": "School Workshop",
+    "People_Reached": 8157,
+    "Feedback_Score": 4.09,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"Radio\"], \"follow_up\": null}"
+  },
+  {
+    "State": "KERALA",
+    "Year": 2020,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 1912,
+    "Feedback_Score": 3.21,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Online\", \"TV\", \"Radio\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Kerala",
+    "Year": 2021,
+    "Program_Type": "SchoolWorkshop",
+    "People_Reached": 6161,
+    "Feedback_Score": 1.96,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"TV\", \"In-person\", \"Online\", \"Radio\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Kerala",
+    "Year": 2021,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 8001,
+    "Feedback_Score": 1.45,
+    "Organizer": "Govt",
+    "Details": "{'channels': ['In-person', 'Radio'], 'follow_up': True}"
+  },
+  {
+    "State": "KERALA",
+    "Year": 2021,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 483,
+    "Feedback_Score": 1.99,
+    "Organizer": "University",
+    "Details": "{'channels': ['In-person'], 'follow_up': False}"
+  },
+  {
+    "State": "Kerala",
+    "Year": 2021,
+    "Program_Type": "TVCampaign",
+    "People_Reached": 1665,
+    "Feedback_Score": 1.27,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"TV\", \"Radio\", \"In-person\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Kerala",
+    "Year": 2022,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 9400,
+    "Feedback_Score": 3.34,
+    "Organizer": "University",
+    "Details": "{'channels': ['Radio', 'TV'], 'follow_up': False}"
+  },
+  {
+    "State": "kerala",
+    "Year": 2022,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 8003,
+    "Feedback_Score": 3.68,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"TV\", \"In-person\"], \"follow_up\": true}"
+  },
+  {
+    "State": "karnataka",
+    "Year": 2016,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 4815,
+    "Feedback_Score": 1.99,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"TV\", \"Online\", \"Radio\", \"In-person\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Karnataka",
+    "Year": 2016,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 3188,
+    "Feedback_Score": 3.08,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"In-person\", \"Online\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Karnataka",
+    "Year": 2016,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 7073,
+    "Feedback_Score": 3.16,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Radio\"], \"follow_up\": true}"
+  },
+  {
+    "State": "karnataka",
+    "Year": 2016,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 9743,
+    "Feedback_Score": 3.06,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"Online\", \"TV\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Karnataka",
+    "Year": 2017,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 9401,
+    "Feedback_Score": 4.19,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"TV\", \"In-person\", \"Online\", \"Radio\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Karnataka",
+    "Year": 2017,
+    "Program_Type": "School Workshop",
+    "People_Reached": 6134,
+    "Feedback_Score": 2.01,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"In-person\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Karnataka",
+    "Year": 2018,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 4321,
+    "Feedback_Score": 4.47,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"TV\", \"In-person\", \"Online\", \"Radio\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Karnataka",
+    "Year": 2018,
+    "Program_Type": "School Workshop",
+    "People_Reached": 6539,
+    "Feedback_Score": 3.51,
+    "Organizer": "University",
+    "Details": "{'channels': ['Online', 'TV', 'Radio', 'In-person'], 'follow_up': True}"
+  },
+  {
+    "State": "Karnataka",
+    "Year": 2018,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 6250,
+    "Feedback_Score": 4.02,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Online\", \"TV\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Karnataka",
+    "Year": 2019,
+    "Program_Type": "School Workshop",
+    "People_Reached": 7253,
+    "Feedback_Score": 3.09,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"In-person\"], \"follow_up\": null}"
+  },
+  {
+    "State": "karnataka",
+    "Year": 2019,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 8959,
+    "Feedback_Score": 3.38,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"Online\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Karnataka",
+    "Year": 2019,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 3401,
+    "Feedback_Score": 1.51,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"In-person\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Karnataka",
+    "Year": 2020,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 917,
+    "Feedback_Score": 3.18,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"In-person\", \"TV\", \"Online\", \"Radio\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Karnataka",
+    "Year": 2021,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 7834,
+    "Feedback_Score": 2.21,
+    "Organizer": "NGO",
+    "Details": "{'channels': ['TV', 'In-person', 'Online'], 'follow_up': None}"
+  },
+  {
+    "State": "Karnataka",
+    "Year": 2021,
+    "Program_Type": "School Workshop",
+    "People_Reached": 4517,
+    "Feedback_Score": 2.42,
+    "Organizer": "Private",
+    "Details": "{'channels': ['TV'], 'follow_up': False}"
+  },
+  {
+    "State": "Karnataka",
+    "Year": 2021,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 5917,
+    "Feedback_Score": 3.76,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Online\", \"Radio\", \"In-person\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Karnataka",
+    "Year": 2021,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 4737,
+    "Feedback_Score": 2.78,
+    "Organizer": "Private",
+    "Details": "{'channels': ['In-person'], 'follow_up': None}"
+  },
+  {
+    "State": "Karnataka",
+    "Year": 2022,
+    "Program_Type": "SchoolWorkshop",
+    "People_Reached": 7504,
+    "Feedback_Score": 4.06,
+    "Organizer": "Private",
+    "Details": "{'channels': ['Radio', 'TV', 'Online'], 'follow_up': True}"
+  },
+  {
+    "State": "Karnataka",
+    "Year": 2022,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 4901,
+    "Feedback_Score": 4.52,
+    "Organizer": "NGO",
+    "Details": "{'channels': ['Online'], 'follow_up': True}"
+  },
+  {
+    "State": "KARNATAKA",
+    "Year": 2022,
+    "Program_Type": "School Workshop",
+    "People_Reached": 115,
+    "Feedback_Score": 1.95,
+    "Organizer": "Private",
+    "Details": "{'channels': ['Radio', 'Online'], 'follow_up': False}"
+  },
+  {
+    "State": "Karnataka",
+    "Year": 2022,
+    "Program_Type": "School Workshop",
+    "People_Reached": 8948,
+    "Feedback_Score": 4.8,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"Radio\", \"In-person\", \"TV\", \"Online\"], \"follow_up\": false}"
+  },
+  {
+    "State": "ANDHRA PRADESH",
+    "Year": 2016,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 9953,
+    "Feedback_Score": 1.42,
+    "Organizer": "University",
+    "Details": "{'channels': ['TV', 'In-person'], 'follow_up': False}"
+  },
+  {
+    "State": "Andhra Pradesh",
+    "Year": 2016,
+    "Program_Type": "School Workshop",
+    "People_Reached": 8633,
+    "Feedback_Score": 3.61,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"Radio\", \"Online\", \"TV\", \"In-person\"], \"follow_up\": true}"
+  },
+  {
+    "State": "andhra pradesh",
+    "Year": 2017,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 4667,
+    "Feedback_Score": 4.01,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"Online\"], \"follow_up\": true}"
+  },
+  {
+    "State": "andhra pradesh",
+    "Year": 2017,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 9349,
+    "Feedback_Score": 1.02,
+    "Organizer": "Govt",
+    "Details": "{'channels': ['Online', 'In-person', 'Radio'], 'follow_up': True}"
+  },
+  {
+    "State": "Andhra Pradesh",
+    "Year": 2017,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 2110,
+    "Feedback_Score": 2.46,
+    "Organizer": "Govt",
+    "Details": "{'channels': ['In-person'], 'follow_up': None}"
+  },
+  {
+    "State": "AndhraPradesh",
+    "Year": 2018,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 5802,
+    "Feedback_Score": 1.15,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"Radio\", \"TV\"], \"follow_up\": true}"
+  },
+  {
+    "State": "andhra pradesh",
+    "Year": 2018,
+    "Program_Type": "School Workshop",
+    "People_Reached": 4336,
+    "Feedback_Score": 1.31,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"TV\"], \"follow_up\": false}"
+  },
+  {
+    "State": "andhra pradesh",
+    "Year": 2019,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 928,
+    "Feedback_Score": 1.72,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Online\", \"Radio\", \"In-person\", \"TV\"], \"follow_up\": true}"
+  },
+  {
+    "State": "ANDHRA PRADESH",
+    "Year": 2019,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 2602,
+    "Feedback_Score": 3.57,
+    "Organizer": "Private",
+    "Details": "{'channels': ['TV', 'Online'], 'follow_up': False}"
+  },
+  {
+    "State": "AndhraPradesh",
+    "Year": 2019,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 8103,
+    "Feedback_Score": 2.57,
+    "Organizer": "University",
+    "Details": "{'channels': ['TV', 'In-person'], 'follow_up': True}"
+  },
+  {
+    "State": "ANDHRA PRADESH",
+    "Year": 2019,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 9121,
+    "Feedback_Score": 4.23,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"Radio\", \"In-person\"], \"follow_up\": true}"
+  },
+  {
+    "State": "andhra pradesh",
+    "Year": 2020,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 2159,
+    "Feedback_Score": 1.14,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"In-person\", \"Radio\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Andhra-Pradesh",
+    "Year": 2020,
+    "Program_Type": "School Workshop",
+    "People_Reached": 1948,
+    "Feedback_Score": 1.53,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"TV\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Andhra-Pradesh",
+    "Year": 2020,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 6883,
+    "Feedback_Score": 4.6,
+    "Organizer": "Govt",
+    "Details": "{'channels': ['Online', 'Radio', 'TV', 'In-person'], 'follow_up': False}"
+  },
+  {
+    "State": "andhra pradesh",
+    "Year": 2021,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 3148,
+    "Feedback_Score": 1.64,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"TV\", \"In-person\", \"Radio\", \"Online\"], \"follow_up\": true}"
+  },
+  {
+    "State": "AndhraPradesh",
+    "Year": 2022,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 1257,
+    "Feedback_Score": 4.0,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"Online\", \"In-person\"], \"follow_up\": true}"
+  },
+  {
+    "State": "TELANGANA",
+    "Year": 2016,
+    "Program_Type": "SchoolWorkshop",
+    "People_Reached": 9892,
+    "Feedback_Score": 2.92,
+    "Organizer": "University",
+    "Details": "{'channels': ['TV', 'Radio'], 'follow_up': False}"
+  },
+  {
+    "State": "telangana",
+    "Year": 2016,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 2791,
+    "Feedback_Score": 4.51,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"Radio\"], \"follow_up\": true}"
+  },
+  {
+    "State": "telangana",
+    "Year": 2016,
+    "Program_Type": "SchoolWorkshop",
+    "People_Reached": 6946,
+    "Feedback_Score": 4.18,
+    "Organizer": "Private",
+    "Details": "{'channels': ['In-person'], 'follow_up': True}"
+  },
+  {
+    "State": "Telangana",
+    "Year": 2016,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 8711,
+    "Feedback_Score": 4.87,
+    "Organizer": "NGO",
+    "Details": "{'channels': ['Radio', 'Online'], 'follow_up': True}"
+  },
+  {
+    "State": "telangana",
+    "Year": 2017,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 7546,
+    "Feedback_Score": 4.55,
+    "Organizer": "Private",
+    "Details": "{'channels': ['Online', 'In-person'], 'follow_up': True}"
+  },
+  {
+    "State": "TELANGANA",
+    "Year": 2017,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 3696,
+    "Feedback_Score": 3.24,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"TV\", \"In-person\", \"Online\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Telangana",
+    "Year": 2017,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 2915,
+    "Feedback_Score": 2.99,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"In-person\", \"TV\", \"Online\", \"Radio\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Telangana",
+    "Year": 2018,
+    "Program_Type": "AwarenessCamp",
+    "People_Reached": 2339,
+    "Feedback_Score": 1.91,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"TV\", \"Online\", \"In-person\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Telangana",
+    "Year": 2018,
+    "Program_Type": "School Workshop",
+    "People_Reached": 3575,
+    "Feedback_Score": 3.76,
+    "Organizer": "Govt",
+    "Details": "{'channels': ['In-person', 'TV', 'Radio'], 'follow_up': False}"
+  },
+  {
+    "State": "Telangana",
+    "Year": 2018,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 5757,
+    "Feedback_Score": 1.08,
+    "Organizer": "NGO",
+    "Details": "{'channels': ['TV', 'Online'], 'follow_up': None}"
+  },
+  {
+    "State": "Telangana",
+    "Year": 2019,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 799,
+    "Feedback_Score": 1.1,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"In-person\", \"Online\"], \"follow_up\": true}"
+  },
+  {
+    "State": "telangana",
+    "Year": 2019,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 7133,
+    "Feedback_Score": 3.0,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"TV\", \"Radio\"], \"follow_up\": null}"
+  },
+  {
+    "State": "telangana",
+    "Year": 2020,
+    "Program_Type": "School Workshop",
+    "People_Reached": 6878,
+    "Feedback_Score": 4.27,
+    "Organizer": "Govt",
+    "Details": "{'channels': ['Radio'], 'follow_up': None}"
+  },
+  {
+    "State": "Telangana",
+    "Year": 2020,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 9163,
+    "Feedback_Score": 4.18,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"Online\", \"In-person\", \"Radio\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Telangana",
+    "Year": 2021,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 374,
+    "Feedback_Score": 4.23,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"Radio\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Telangana",
+    "Year": 2021,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 3895,
+    "Feedback_Score": 1.66,
+    "Organizer": "NGO",
+    "Details": "{'channels': ['Online', 'TV'], 'follow_up': False}"
+  },
+  {
+    "State": "TELANGANA",
+    "Year": 2021,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 6669,
+    "Feedback_Score": 2.14,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Online\", \"In-person\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Telangana",
+    "Year": 2022,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 5419,
+    "Feedback_Score": 4.65,
+    "Organizer": "Private",
+    "Details": "{'channels': ['Online', 'TV'], 'follow_up': None}"
+  },
+  {
+    "State": "telangana",
+    "Year": 2022,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 3818,
+    "Feedback_Score": 4.75,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"Radio\", \"TV\"], \"follow_up\": false}"
+  },
+  {
+    "State": "gujarat",
+    "Year": 2016,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 9512,
+    "Feedback_Score": 2.7,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"Online\", \"Radio\", \"In-person\", \"TV\"], \"follow_up\": false}"
+  },
+  {
+    "State": "GUJARAT",
+    "Year": 2016,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 1142,
+    "Feedback_Score": 4.37,
+    "Organizer": "University",
+    "Details": "{'channels': ['In-person', 'TV', 'Radio'], 'follow_up': True}"
+  },
+  {
+    "State": "gujarat",
+    "Year": 2016,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 8069,
+    "Feedback_Score": 1.08,
+    "Organizer": "Govt",
+    "Details": "{'channels': ['Radio', 'In-person'], 'follow_up': True}"
+  },
+  {
+    "State": "gujarat",
+    "Year": 2017,
+    "Program_Type": "School Workshop",
+    "People_Reached": 83,
+    "Feedback_Score": 3.76,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"In-person\", \"TV\", \"Online\", \"Radio\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Gujarat",
+    "Year": 2018,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 3582,
+    "Feedback_Score": 2.19,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"Online\", \"In-person\", \"Radio\", \"TV\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Gujarat",
+    "Year": 2018,
+    "Program_Type": "School Workshop",
+    "People_Reached": 309,
+    "Feedback_Score": 3.11,
+    "Organizer": "Govt",
+    "Details": "{'channels': ['Radio', 'Online', 'In-person'], 'follow_up': False}"
+  },
+  {
+    "State": "gujarat",
+    "Year": 2019,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 2589,
+    "Feedback_Score": 3.88,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Online\", \"TV\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Gujarat",
+    "Year": 2019,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 9631,
+    "Feedback_Score": 3.97,
+    "Organizer": "University",
+    "Details": "{'channels': ['In-person', 'Online', 'TV'], 'follow_up': True}"
+  },
+  {
+    "State": "Gujarat",
+    "Year": 2019,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 8980,
+    "Feedback_Score": 1.64,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"TV\", \"In-person\", \"Online\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Gujarat",
+    "Year": 2020,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 4935,
+    "Feedback_Score": 2.36,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"In-person\", \"TV\", \"Radio\", \"Online\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Gujarat",
+    "Year": 2020,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 6520,
+    "Feedback_Score": 4.27,
+    "Organizer": "NGO",
+    "Details": "{'channels': ['Radio', 'In-person', 'TV', 'Online'], 'follow_up': False}"
+  },
+  {
+    "State": "GUJARAT",
+    "Year": 2021,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 6610,
+    "Feedback_Score": 3.34,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Radio\", \"In-person\", \"Online\", \"TV\"], \"follow_up\": false}"
+  },
+  {
+    "State": "GUJARAT",
+    "Year": 2021,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 4401,
+    "Feedback_Score": 3.61,
+    "Organizer": "Private",
+    "Details": "{'channels': ['Radio', 'Online'], 'follow_up': False}"
+  },
+  {
+    "State": "Gujarat",
+    "Year": 2022,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 8105,
+    "Feedback_Score": 1.55,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"In-person\", \"Online\"], \"follow_up\": true}"
+  },
+  {
+    "State": "gujarat",
+    "Year": 2022,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 6422,
+    "Feedback_Score": 2.28,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"In-person\", \"Radio\", \"Online\"], \"follow_up\": true}"
+  },
+  {
+    "State": "gujarat",
+    "Year": 2022,
+    "Program_Type": "School Workshop",
+    "People_Reached": 3196,
+    "Feedback_Score": 3.18,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Online\", \"In-person\", \"TV\", \"Radio\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": 2016,
+    "Program_Type": "TVCampaign",
+    "People_Reached": 3574,
+    "Feedback_Score": 3.81,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Radio\", \"Online\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": 2016,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 3210,
+    "Feedback_Score": 1.47,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"Radio\", \"Online\", \"In-person\", \"TV\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": 2016,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 3488,
+    "Feedback_Score": 3.28,
+    "Organizer": "Private",
+    "Details": "{'channels': ['Radio', 'TV', 'Online'], 'follow_up': False}"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": 2017,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 9171,
+    "Feedback_Score": 1.39,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"In-person\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": 2017,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 2206,
+    "Feedback_Score": 2.92,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"Radio\", \"TV\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": 2017,
+    "Program_Type": "School Workshop",
+    "People_Reached": 1601,
+    "Feedback_Score": 3.06,
+    "Organizer": "University",
+    "Details": "{'channels': ['Online'], 'follow_up': False}"
+  },
+  {
+    "State": "RAJASTHAN",
+    "Year": 2017,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 2708,
+    "Feedback_Score": 3.97,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"TV\", \"In-person\", \"Online\", \"Radio\"], \"follow_up\": true}"
+  },
+  {
+    "State": "RAJASTHAN",
+    "Year": 2018,
+    "Program_Type": "School Workshop",
+    "People_Reached": 9855,
+    "Feedback_Score": 1.1,
+    "Organizer": "University",
+    "Details": "{'channels': ['TV', 'In-person'], 'follow_up': None}"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": 2019,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 9169,
+    "Feedback_Score": 4.59,
+    "Organizer": "Govt",
+    "Details": "{'channels': ['Radio', 'TV', 'Online', 'In-person'], 'follow_up': False}"
+  },
+  {
+    "State": "RAJASTHAN",
+    "Year": 2019,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 9012,
+    "Feedback_Score": 3.54,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"In-person\", \"TV\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": 2019,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 9688,
+    "Feedback_Score": 4.3,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"In-person\", \"TV\"], \"follow_up\": true}"
+  },
+  {
+    "State": "rajasthan",
+    "Year": 2019,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 2529,
+    "Feedback_Score": 1.89,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Online\", \"In-person\", \"TV\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": 2020,
+    "Program_Type": "School Workshop",
+    "People_Reached": 1742,
+    "Feedback_Score": 1.51,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"Radio\", \"Online\", \"TV\"], \"follow_up\": false}"
+  },
+  {
+    "State": "RAJASTHAN",
+    "Year": 2020,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 9370,
+    "Feedback_Score": 3.55,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"In-person\"], \"follow_up\": null}"
+  },
+  {
+    "State": "RAJASTHAN",
+    "Year": 2020,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 5230,
+    "Feedback_Score": 2.79,
+    "Organizer": "NGO",
+    "Details": "{'channels': ['Radio', 'Online', 'In-person'], 'follow_up': False}"
+  },
+  {
+    "State": "RAJASTHAN",
+    "Year": 2021,
+    "Program_Type": "School Workshop",
+    "People_Reached": 5321,
+    "Feedback_Score": 4.62,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"In-person\", \"Online\", \"Radio\"], \"follow_up\": false}"
+  },
+  {
+    "State": "RAJASTHAN",
+    "Year": 2021,
+    "Program_Type": "School Workshop",
+    "People_Reached": 5461,
+    "Feedback_Score": 2.34,
+    "Organizer": "University",
+    "Details": "{'channels': ['TV', 'Online', 'In-person'], 'follow_up': True}"
+  },
+  {
+    "State": "rajasthan",
+    "Year": 2021,
+    "Program_Type": "AwarenessCamp",
+    "People_Reached": 5412,
+    "Feedback_Score": 3.27,
+    "Organizer": "Govt",
+    "Details": "{'channels': ['TV', 'Online'], 'follow_up': False}"
+  },
+  {
+    "State": "rajasthan",
+    "Year": 2022,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 6154,
+    "Feedback_Score": 4.56,
+    "Organizer": "Private",
+    "Details": "{'channels': ['Online'], 'follow_up': True}"
+  },
+  {
+    "State": "punjab",
+    "Year": 2016,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 8594,
+    "Feedback_Score": 3.49,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"Online\", \"Radio\", \"In-person\", \"TV\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Punjab",
+    "Year": 2016,
+    "Program_Type": "School Workshop",
+    "People_Reached": 9653,
+    "Feedback_Score": 2.78,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"Radio\"], \"follow_up\": null}"
+  },
+  {
+    "State": "punjab",
+    "Year": 2016,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 3889,
+    "Feedback_Score": 1.54,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"Online\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Punjab",
+    "Year": 2017,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 7742,
+    "Feedback_Score": 1.88,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"Online\", \"TV\", \"Radio\", \"In-person\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Punjab",
+    "Year": 2017,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 2782,
+    "Feedback_Score": 4.4,
+    "Organizer": "Govt",
+    "Details": "{'channels': ['Radio', 'Online', 'In-person'], 'follow_up': None}"
+  },
+  {
+    "State": "PUNJAB",
+    "Year": 2017,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 9250,
+    "Feedback_Score": 3.35,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"TV\", \"Online\", \"In-person\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Punjab",
+    "Year": 2018,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 1799,
+    "Feedback_Score": 1.13,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"TV\", \"Online\", \"In-person\", \"Radio\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Punjab",
+    "Year": 2019,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 5304,
+    "Feedback_Score": 1.75,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"TV\", \"In-person\", \"Online\"], \"follow_up\": true}"
+  },
+  {
+    "State": "punjab",
+    "Year": 2019,
+    "Program_Type": "School Workshop",
+    "People_Reached": 4260,
+    "Feedback_Score": 3.29,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"In-person\", \"TV\", \"Online\", \"Radio\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Punjab",
+    "Year": 2019,
+    "Program_Type": "School Workshop",
+    "People_Reached": 7084,
+    "Feedback_Score": 1.46,
+    "Organizer": "Private",
+    "Details": "{'channels': ['Online'], 'follow_up': True}"
+  },
+  {
+    "State": "Punjab",
+    "Year": 2020,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 4953,
+    "Feedback_Score": 3.85,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"Online\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Punjab",
+    "Year": 2020,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 1239,
+    "Feedback_Score": 1.28,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"Radio\", \"In-person\", \"TV\", \"Online\"], \"follow_up\": null}"
+  },
+  {
+    "State": "PUNJAB",
+    "Year": 2021,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 7067,
+    "Feedback_Score": 4.49,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"Radio\", \"Online\", \"TV\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Punjab",
+    "Year": 2021,
+    "Program_Type": "School Workshop",
+    "People_Reached": 102,
+    "Feedback_Score": 1.1,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Radio\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Punjab",
+    "Year": 2021,
+    "Program_Type": "School Workshop",
+    "People_Reached": 2358,
+    "Feedback_Score": 2.3,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"In-person\", \"Online\", \"TV\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Punjab",
+    "Year": 2022,
+    "Program_Type": "School Workshop",
+    "People_Reached": 6539,
+    "Feedback_Score": 1.38,
+    "Organizer": "Govt",
+    "Details": "{'channels': ['TV', 'In-person', 'Radio'], 'follow_up': False}"
+  },
+  {
+    "State": "Haryana",
+    "Year": 2016,
+    "Program_Type": "School Workshop",
+    "People_Reached": 8988,
+    "Feedback_Score": 4.18,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"In-person\", \"TV\", \"Online\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Haryana",
+    "Year": 2017,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 4502,
+    "Feedback_Score": 2.76,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"TV\", \"In-person\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Haryana",
+    "Year": 2017,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 5276,
+    "Feedback_Score": 2.04,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"TV\", \"Online\", \"Radio\", \"In-person\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Haryana",
+    "Year": 2018,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 1026,
+    "Feedback_Score": 1.23,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Radio\", \"TV\", \"Online\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Haryana",
+    "Year": 2018,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 9546,
+    "Feedback_Score": 1.51,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"TV\", \"Radio\", \"In-person\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Haryaaa",
+    "Year": 2018,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 8133,
+    "Feedback_Score": 2.66,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"In-person\", \"Radio\", \"TV\", \"Online\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Haryana",
+    "Year": 2018,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 2323,
+    "Feedback_Score": 3.67,
+    "Organizer": "University",
+    "Details": "{'channels': ['TV', 'In-person', 'Online'], 'follow_up': True}"
+  },
+  {
+    "State": "Haryana",
+    "Year": 2019,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 8901,
+    "Feedback_Score": 3.56,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"In-person\", \"Radio\", \"Online\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Haryana",
+    "Year": 2019,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 4486,
+    "Feedback_Score": 2.89,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"Online\"], \"follow_up\": false}"
+  },
+  {
+    "State": "haryana",
+    "Year": 2020,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 8761,
+    "Feedback_Score": 3.61,
+    "Organizer": "Private",
+    "Details": "{'channels': ['TV', 'Radio', 'In-person', 'Online'], 'follow_up': True}"
+  },
+  {
+    "State": "Haryana",
+    "Year": 2021,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 8706,
+    "Feedback_Score": 3.87,
+    "Organizer": "University",
+    "Details": "{'channels': ['TV', 'In-person', 'Radio'], 'follow_up': True}"
+  },
+  {
+    "State": "Haryana",
+    "Year": 2022,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 2458,
+    "Feedback_Score": 3.98,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"Online\", \"Radio\", \"In-person\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Haryana",
+    "Year": 2022,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 3965,
+    "Feedback_Score": 3.15,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"TV\", \"Online\", \"Radio\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Haryana",
+    "Year": 2022,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 3024,
+    "Feedback_Score": 1.06,
+    "Organizer": "University",
+    "Details": "{'channels': ['Radio', 'In-person', 'Online', 'TV'], 'follow_up': None}"
+  },
+  {
+    "State": "Haryana",
+    "Year": 2022,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 8971,
+    "Feedback_Score": 3.1,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"Online\", \"Radio\", \"TV\", \"In-person\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Bihar",
+    "Year": 2016,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 6508,
+    "Feedback_Score": 2.5,
+    "Organizer": "Private",
+    "Details": "{'channels': ['Radio', 'Online', 'TV'], 'follow_up': True}"
+  },
+  {
+    "State": "Bihar",
+    "Year": 2016,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 4763,
+    "Feedback_Score": 2.73,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"TV\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Bihar",
+    "Year": 2016,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 599,
+    "Feedback_Score": 2.08,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"TV\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Bihar",
+    "Year": 2016,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 8571,
+    "Feedback_Score": 4.04,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"In-person\", \"TV\", \"Online\"], \"follow_up\": true}"
+  },
+  {
+    "State": "bihar",
+    "Year": 2017,
+    "Program_Type": "School Workshop",
+    "People_Reached": 8065,
+    "Feedback_Score": 2.73,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"In-person\"], \"follow_up\": true}"
+  },
+  {
+    "State": "BIHAR",
+    "Year": 2017,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 3866,
+    "Feedback_Score": 2.31,
+    "Organizer": "University",
+    "Details": "{'channels': ['Online', 'In-person'], 'follow_up': None}"
+  },
+  {
+    "State": "BIHAR",
+    "Year": 2018,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 5645,
+    "Feedback_Score": 1.01,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"TV\", \"In-person\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Bihar",
+    "Year": 2019,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 1722,
+    "Feedback_Score": 4.73,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Online\", \"Radio\", \"In-person\", \"TV\"], \"follow_up\": true}"
+  },
+  {
+    "State": "BIHAR",
+    "Year": 2019,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 7176,
+    "Feedback_Score": 1.56,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"In-person\", \"Radio\", \"Online\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Bihar",
+    "Year": 2020,
+    "Program_Type": "School Workshop",
+    "People_Reached": 8891,
+    "Feedback_Score": 1.77,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"In-person\", \"Radio\"], \"follow_up\": null}"
+  },
+  {
+    "State": "BIHAR",
+    "Year": 2020,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 5531,
+    "Feedback_Score": 1.05,
+    "Organizer": "Private",
+    "Details": "{'channels': ['TV', 'Radio'], 'follow_up': True}"
+  },
+  {
+    "State": "Bihar",
+    "Year": 2021,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 5653,
+    "Feedback_Score": 4.01,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"Radio\", \"In-person\", \"Online\", \"TV\"], \"follow_up\": true}"
+  },
+  {
+    "State": "bihar",
+    "Year": 2021,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 4096,
+    "Feedback_Score": 3.23,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"TV\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Bihar",
+    "Year": 2021,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 7712,
+    "Feedback_Score": 2.33,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"Radio\", \"TV\"], \"follow_up\": false}"
+  },
+  {
+    "State": "BIHAR",
+    "Year": 2021,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 9101,
+    "Feedback_Score": 2.4,
+    "Organizer": "Govt",
+    "Details": "{'channels': ['Radio', 'In-person', 'TV'], 'follow_up': None}"
+  },
+  {
+    "State": "bihar",
+    "Year": 2022,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 8422,
+    "Feedback_Score": 2.67,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"Radio\"], \"follow_up\": true}"
+  },
+  {
+    "State": "bihar",
+    "Year": 2022,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 2650,
+    "Feedback_Score": 2.46,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Online\", \"Radio\", \"In-person\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Bihar",
+    "Year": 2022,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 2741,
+    "Feedback_Score": 3.59,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"In-person\", \"TV\", \"Radio\", \"Online\"], \"follow_up\": null}"
+  },
+  {
+    "State": "BIHAR",
+    "Year": 2022,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 354,
+    "Feedback_Score": 4.32,
+    "Organizer": "NGO",
+    "Details": "{'channels': ['TV', 'In-person'], 'follow_up': None}"
+  },
+  {
+    "State": "UTTAR PRADESH",
+    "Year": 2016,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 8487,
+    "Feedback_Score": 4.28,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"TV\"], \"follow_up\": true}"
+  },
+  {
+    "State": "UTTAR PRADESH",
+    "Year": 2017,
+    "Program_Type": "School Workshop",
+    "People_Reached": 120,
+    "Feedback_Score": 3.91,
+    "Organizer": "University",
+    "Details": "{'channels': ['In-person'], 'follow_up': False}"
+  },
+  {
+    "State": "Uttar-Pradesh",
+    "Year": 2017,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 9717,
+    "Feedback_Score": 1.77,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"In-person\", \"Online\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Uttar-Pradesh",
+    "Year": 2017,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 7080,
+    "Feedback_Score": 1.92,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Online\"], \"follow_up\": null}"
+  },
+  {
+    "State": "uttar pradesh",
+    "Year": 2018,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 5267,
+    "Feedback_Score": 4.45,
+    "Organizer": "Govt",
+    "Details": "{'channels': ['Radio', 'TV', 'In-person', 'Online'], 'follow_up': True}"
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Year": 2018,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 7746,
+    "Feedback_Score": 1.14,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"In-person\", \"TV\", \"Online\", \"Radio\"], \"follow_up\": false}"
+  },
+  {
+    "State": "UttarPradesh",
+    "Year": 2018,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 5691,
+    "Feedback_Score": 4.93,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"TV\", \"Online\", \"Radio\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Year": 2018,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 2452,
+    "Feedback_Score": 4.42,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"TV\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Uttar-Pradesh",
+    "Year": 2019,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 1765,
+    "Feedback_Score": 1.37,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Online\", \"In-person\", \"Radio\"], \"follow_up\": false}"
+  },
+  {
+    "State": "UTTAR PRADESH",
+    "Year": 2019,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 6915,
+    "Feedback_Score": 1.58,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"TV\", \"Radio\", \"Online\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Uttar-Pradesh",
+    "Year": 2019,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 3427,
+    "Feedback_Score": 3.99,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"Radio\"], \"follow_up\": null}"
+  },
+  {
+    "State": "UttarPradesh",
+    "Year": 2019,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 9158,
+    "Feedback_Score": 3.4,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"Radio\", \"TV\", \"Online\", \"In-person\"], \"follow_up\": true}"
+  },
+  {
+    "State": "UTTAR PRADESH",
+    "Year": 2020,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 6847,
+    "Feedback_Score": 4.93,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"TV\", \"Online\", \"In-person\", \"Radio\"], \"follow_up\": null}"
+  },
+  {
+    "State": "uttar pradesh",
+    "Year": 2021,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 195,
+    "Feedback_Score": 3.17,
+    "Organizer": "Private",
+    "Details": "{'channels': ['Online'], 'follow_up': True}"
+  },
+  {
+    "State": "UTTAR PRADESH",
+    "Year": 2021,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 3242,
+    "Feedback_Score": 2.38,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"Radio\", \"TV\", \"In-person\", \"Online\"], \"follow_up\": true}"
+  },
+  {
+    "State": "UTTAR PRADESH",
+    "Year": 2021,
+    "Program_Type": "School Workshop",
+    "People_Reached": 1030,
+    "Feedback_Score": 1.5,
+    "Organizer": "NGO",
+    "Details": "{'channels': ['In-person'], 'follow_up': False}"
+  },
+  {
+    "State": "Uttar-Pradesh",
+    "Year": 2022,
+    "Program_Type": "School Workshop",
+    "People_Reached": 4151,
+    "Feedback_Score": 4.4,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"In-person\", \"Radio\", \"TV\"], \"follow_up\": true}"
+  },
+  {
+    "State": "UttarPradesh",
+    "Year": 2022,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 2807,
+    "Feedback_Score": 1.42,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"Online\", \"Radio\", \"In-person\", \"TV\"], \"follow_up\": null}"
+  },
+  {
+    "State": "UttarPradesh",
+    "Year": 2022,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 2847,
+    "Feedback_Score": 3.6,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"Radio\", \"In-person\", \"Online\", \"TV\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": 2016,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 4919,
+    "Feedback_Score": 4.18,
+    "Organizer": "Govt",
+    "Details": "{'channels': ['Radio', 'TV', 'In-person'], 'follow_up': None}"
+  },
+  {
+    "State": "Madhya-Pradesh",
+    "Year": 2016,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 789,
+    "Feedback_Score": 2.1,
+    "Organizer": "Govt",
+    "Details": "{'channels': ['In-person'], 'follow_up': None}"
+  },
+  {
+    "State": "MadhyaPradesh",
+    "Year": 2016,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 3218,
+    "Feedback_Score": 3.01,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"In-person\", \"TV\", \"Radio\", \"Online\"], \"follow_up\": true}"
+  },
+  {
+    "State": "MADHYA PRADESH",
+    "Year": 2017,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 8012,
+    "Feedback_Score": 2.75,
+    "Organizer": "Private",
+    "Details": "{'channels': ['Online'], 'follow_up': None}"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": 2017,
+    "Program_Type": "School Workshop",
+    "People_Reached": 9840,
+    "Feedback_Score": 4.07,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"Radio\", \"Online\"], \"follow_up\": false}"
+  },
+  {
+    "State": "MadhyaPradesh",
+    "Year": 2017,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 6319,
+    "Feedback_Score": 1.47,
+    "Organizer": "Private",
+    "Details": "{'channels': ['Radio'], 'follow_up': None}"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": 2017,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 5398,
+    "Feedback_Score": 3.83,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Online\"], \"follow_up\": null}"
+  },
+  {
+    "State": "MadhyaPradesh",
+    "Year": 2018,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 7345,
+    "Feedback_Score": 4.63,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"In-person\", \"TV\"], \"follow_up\": true}"
+  },
+  {
+    "State": "MADHYA PRADESH",
+    "Year": 2018,
+    "Program_Type": "CommunityOutreach",
+    "People_Reached": 5870,
+    "Feedback_Score": 4.74,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"Radio\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Madhya-Pradesh",
+    "Year": 2018,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 1192,
+    "Feedback_Score": 4.55,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"Radio\", \"TV\", \"Online\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": 2018,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 2038,
+    "Feedback_Score": 3.51,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"In-person\", \"Radio\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": 2019,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 7166,
+    "Feedback_Score": 3.99,
+    "Organizer": "University",
+    "Details": "{'channels': ['In-person', 'Online', 'TV'], 'follow_up': None}"
+  },
+  {
+    "State": "MadhyaPradesh",
+    "Year": 2019,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 2716,
+    "Feedback_Score": 1.47,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"TV\", \"In-person\", \"Radio\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Madhya-Pradesh",
+    "Year": 2019,
+    "Program_Type": "School Workshop",
+    "People_Reached": 7872,
+    "Feedback_Score": 4.72,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"In-person\", \"TV\", \"Online\", \"Radio\"], \"follow_up\": true}"
+  },
+  {
+    "State": "madhya pradesh",
+    "Year": 2019,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 1873,
+    "Feedback_Score": 1.82,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"Online\", \"Radio\", \"TV\"], \"follow_up\": null}"
+  },
+  {
+    "State": "madhya pradesh",
+    "Year": 2020,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 3001,
+    "Feedback_Score": 1.22,
+    "Organizer": "NGO",
+    "Details": "{'channels': ['Online', 'TV'], 'follow_up': True}"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": 2020,
+    "Program_Type": "School Workshop",
+    "People_Reached": 3879,
+    "Feedback_Score": 2.3,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"In-person\", \"TV\"], \"follow_up\": true}"
+  },
+  {
+    "State": "madhya pradesh",
+    "Year": 2020,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 2379,
+    "Feedback_Score": 3.52,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"Radio\", \"TV\", \"Online\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": 2021,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 4997,
+    "Feedback_Score": 3.53,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"In-person\", \"Online\", \"TV\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Madhya-Pradesh",
+    "Year": 2021,
+    "Program_Type": "School Workshop",
+    "People_Reached": 3417,
+    "Feedback_Score": 3.88,
+    "Organizer": "Govt",
+    "Details": "{'channels': ['Online', 'In-person', 'TV'], 'follow_up': False}"
+  },
+  {
+    "State": "Madhya Praeesh",
+    "Year": 2022,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 2154,
+    "Feedback_Score": 4.16,
+    "Organizer": "Private",
+    "Details": "{'channels': ['Online'], 'follow_up': False}"
+  },
+  {
+    "State": "MADHYA PRADESH",
+    "Year": 2022,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 1015,
+    "Feedback_Score": 1.28,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Radio\", \"Online\", \"In-person\", \"TV\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": 2016,
+    "Program_Type": "School Workshop",
+    "People_Reached": 9782,
+    "Feedback_Score": 2.95,
+    "Organizer": "University",
+    "Details": "{'channels': ['In-person', 'Online', 'Radio'], 'follow_up': True}"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": 2017,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 3354,
+    "Feedback_Score": 4.31,
+    "Organizer": "Private",
+    "Details": "{'channels': ['TV'], 'follow_up': True}"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": 2018,
+    "Program_Type": "School Workshop",
+    "People_Reached": 1409,
+    "Feedback_Score": 2.28,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"TV\", \"Online\"], \"follow_up\": true}"
+  },
+  {
+    "State": "CHHATTISGARH",
+    "Year": 2018,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 9192,
+    "Feedback_Score": 1.34,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Radio\", \"Online\", \"In-person\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": 2018,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 1622,
+    "Feedback_Score": 3.47,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"TV\", \"Radio\", \"In-person\", \"Online\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": 2019,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 4434,
+    "Feedback_Score": 2.36,
+    "Organizer": "University",
+    "Details": "{'channels': ['Radio', 'TV', 'Online', 'In-person'], 'follow_up': None}"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": 2019,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 8276,
+    "Feedback_Score": 4.08,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"Radio\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": 2020,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 8768,
+    "Feedback_Score": 1.93,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"TV\", \"Radio\", \"In-person\", \"Online\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": 2020,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 9060,
+    "Feedback_Score": 4.13,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"TV\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": 2020,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 8840,
+    "Feedback_Score": 2.56,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"In-person\", \"Radio\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": 2020,
+    "Program_Type": "School Workshop",
+    "People_Reached": 5259,
+    "Feedback_Score": 1.41,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"TV\", \"Radio\", \"Online\", \"In-person\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": 2021,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 5548,
+    "Feedback_Score": 3.68,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"Radio\", \"TV\", \"Online\", \"In-person\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": 2021,
+    "Program_Type": "School Workshop",
+    "People_Reached": 9899,
+    "Feedback_Score": 2.19,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"Radio\", \"In-person\", \"TV\"], \"follow_up\": true}"
+  },
+  {
+    "State": "chhattisgarh",
+    "Year": 2022,
+    "Program_Type": "School Workshop",
+    "People_Reached": 2142,
+    "Feedback_Score": 3.21,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"Radio\", \"In-person\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": 2022,
+    "Program_Type": "School Workshop",
+    "People_Reached": 3135,
+    "Feedback_Score": 2.4,
+    "Organizer": "University",
+    "Details": "{'channels': ['TV', 'Radio'], 'follow_up': True}"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": 2022,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 1677,
+    "Feedback_Score": 4.84,
+    "Organizer": "NGO",
+    "Details": "{'channels': ['TV', 'Radio', 'In-person'], 'follow_up': True}"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": 2022,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 8509,
+    "Feedback_Score": 3.93,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"TV\", \"In-person\", \"Online\", \"Radio\"], \"follow_up\": null}"
+  },
+  {
+    "State": "ODISHA",
+    "Year": 2016,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 3296,
+    "Feedback_Score": 4.16,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"TV\", \"In-person\", \"Radio\", \"Online\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Odisha",
+    "Year": 2016,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 7507,
+    "Feedback_Score": 4.4,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"TV\", \"Online\", \"Radio\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Odisha",
+    "Year": 2017,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 2901,
+    "Feedback_Score": 4.42,
+    "Organizer": "Govt",
+    "Details": "{'channels': ['TV', 'In-person'], 'follow_up': None}"
+  },
+  {
+    "State": "Odisha",
+    "Year": 2017,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 3762,
+    "Feedback_Score": 2.18,
+    "Organizer": "Govt",
+    "Details": "{'channels': ['TV', 'Online', 'In-person', 'Radio'], 'follow_up': None}"
+  },
+  {
+    "State": "odisha",
+    "Year": 2017,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 5419,
+    "Feedback_Score": 1.96,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"Radio\", \"In-person\", \"Online\"], \"follow_up\": false}"
+  },
+  {
+    "State": "odisha",
+    "Year": 2017,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 5631,
+    "Feedback_Score": 1.22,
+    "Organizer": "University",
+    "Details": "{'channels': ['Radio'], 'follow_up': True}"
+  },
+  {
+    "State": "Odisha",
+    "Year": 2018,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 2365,
+    "Feedback_Score": 3.4,
+    "Organizer": "NGO",
+    "Details": "{'channels': ['In-person', 'TV'], 'follow_up': None}"
+  },
+  {
+    "State": "Odisha",
+    "Year": 2018,
+    "Program_Type": "School Workshop",
+    "People_Reached": 1659,
+    "Feedback_Score": 1.68,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"In-person\", \"Online\", \"Radio\", \"TV\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Odisha",
+    "Year": 2019,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 1243,
+    "Feedback_Score": 4.4,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"TV\", \"In-person\", \"Radio\", \"Online\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Odisha",
+    "Year": 2019,
+    "Program_Type": "School Workshop",
+    "People_Reached": 9970,
+    "Feedback_Score": 4.99,
+    "Organizer": "NGO",
+    "Details": "{'channels': ['Online'], 'follow_up': None}"
+  },
+  {
+    "State": "Odisha",
+    "Year": 2020,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 2356,
+    "Feedback_Score": 2.34,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Radio\", \"Online\", \"In-person\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Odisha",
+    "Year": 2020,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 7878,
+    "Feedback_Score": 3.14,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"Online\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Odisha",
+    "Year": 2020,
+    "Program_Type": "School Workshop",
+    "People_Reached": 2503,
+    "Feedback_Score": 1.98,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"In-person\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Odisha",
+    "Year": 2020,
+    "Program_Type": "School Workshop",
+    "People_Reached": 3975,
+    "Feedback_Score": 2.47,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"TV\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Odisha",
+    "Year": 2021,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 7801,
+    "Feedback_Score": 4.41,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"In-person\", \"Radio\", \"TV\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Odisha",
+    "Year": 2021,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 3887,
+    "Feedback_Score": 2.32,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"TV\"], \"follow_up\": true}"
+  },
+  {
+    "State": "ODISHA",
+    "Year": 2021,
+    "Program_Type": "School Workshop",
+    "People_Reached": 6464,
+    "Feedback_Score": 1.63,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"TV\", \"Radio\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Odisha",
+    "Year": 2021,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 5827,
+    "Feedback_Score": 4.57,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"TV\", \"Radio\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Odisha",
+    "Year": 2022,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 3724,
+    "Feedback_Score": 4.31,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"Online\", \"Radio\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Odisha",
+    "Year": 2022,
+    "Program_Type": "School Workshop",
+    "People_Reached": 3377,
+    "Feedback_Score": 1.29,
+    "Organizer": "Private",
+    "Details": "{'channels': ['TV'], 'follow_up': None}"
+  },
+  {
+    "State": "WestBengal",
+    "Year": 2016,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 8118,
+    "Feedback_Score": 4.27,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"Radio\"], \"follow_up\": false}"
+  },
+  {
+    "State": "WEST BENGAL",
+    "Year": 2016,
+    "Program_Type": "School Workshop",
+    "People_Reached": 435,
+    "Feedback_Score": 4.19,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"Radio\", \"In-person\"], \"follow_up\": null}"
+  },
+  {
+    "State": "west bengal",
+    "Year": 2017,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 2437,
+    "Feedback_Score": 2.12,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"TV\", \"In-person\", \"Radio\", \"Online\"], \"follow_up\": null}"
+  },
+  {
+    "State": "West-Bengal",
+    "Year": 2017,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 6571,
+    "Feedback_Score": 1.83,
+    "Organizer": "Govt",
+    "Details": "{'channels': ['Online', 'TV'], 'follow_up': True}"
+  },
+  {
+    "State": "West-Bengal",
+    "Year": 2017,
+    "Program_Type": "School Workshop",
+    "People_Reached": 9919,
+    "Feedback_Score": 4.11,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Online\", \"Radio\", \"In-person\"], \"follow_up\": false}"
+  },
+  {
+    "State": "WestBengal",
+    "Year": 2017,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 6571,
+    "Feedback_Score": 1.65,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"TV\", \"Radio\", \"In-person\", \"Online\"], \"follow_up\": true}"
+  },
+  {
+    "State": "West Bengal",
+    "Year": 2018,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 7091,
+    "Feedback_Score": 1.66,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"In-person\", \"Radio\"], \"follow_up\": null}"
+  },
+  {
+    "State": "West-Bengal",
+    "Year": 2019,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 9600,
+    "Feedback_Score": 4.62,
+    "Organizer": "University",
+    "Details": "{'channels': ['Online', 'In-person'], 'follow_up': None}"
+  },
+  {
+    "State": "west bengal",
+    "Year": 2019,
+    "Program_Type": "School Workshop",
+    "People_Reached": 9703,
+    "Feedback_Score": 1.46,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"In-person\"], \"follow_up\": false}"
+  },
+  {
+    "State": "West Bengal",
+    "Year": 2019,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 4418,
+    "Feedback_Score": 1.17,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"In-person\"], \"follow_up\": false}"
+  },
+  {
+    "State": "West Bengal",
+    "Year": 2020,
+    "Program_Type": "School Workshop",
+    "People_Reached": 5444,
+    "Feedback_Score": 1.5,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"Online\", \"In-person\", \"TV\"], \"follow_up\": true}"
+  },
+  {
+    "State": "West Bengal",
+    "Year": 2020,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 4984,
+    "Feedback_Score": 2.35,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"In-person\"], \"follow_up\": null}"
+  },
+  {
+    "State": "WEST BENGAL",
+    "Year": 2021,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 3760,
+    "Feedback_Score": 2.58,
+    "Organizer": "Govt",
+    "Details": "{'channels': ['Radio', 'In-person'], 'follow_up': True}"
+  },
+  {
+    "State": "west bengal",
+    "Year": 2021,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 6914,
+    "Feedback_Score": 1.44,
+    "Organizer": "University",
+    "Details": "{'channels': ['Online', 'Radio', 'In-person', 'TV'], 'follow_up': True}"
+  },
+  {
+    "State": "WEST BENGAL",
+    "Year": 2021,
+    "Program_Type": "OnlineWebinar",
+    "People_Reached": 7952,
+    "Feedback_Score": 4.85,
+    "Organizer": "Govt",
+    "Details": "{'channels': ['TV', 'In-person'], 'follow_up': None}"
+  },
+  {
+    "State": "West-Bengal",
+    "Year": 2022,
+    "Program_Type": "School Workshop",
+    "People_Reached": 9670,
+    "Feedback_Score": 4.33,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"Radio\", \"Online\", \"TV\"], \"follow_up\": null}"
+  },
+  {
+    "State": "West Bengal",
+    "Year": 2022,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 721,
+    "Feedback_Score": 4.03,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"TV\", \"Radio\", \"Online\", \"In-person\"], \"follow_up\": false}"
+  },
+  {
+    "State": "West Bengal",
+    "Year": 2022,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 1918,
+    "Feedback_Score": 3.21,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"TV\", \"Radio\", \"In-person\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Assam",
+    "Year": 2016,
+    "Program_Type": "School Workshop",
+    "People_Reached": 9981,
+    "Feedback_Score": 1.23,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"Radio\", \"Online\", \"In-person\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Assam",
+    "Year": 2016,
+    "Program_Type": "School Workshop",
+    "People_Reached": 828,
+    "Feedback_Score": 3.41,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"Radio\", \"Online\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Assam",
+    "Year": 2016,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 8936,
+    "Feedback_Score": 1.27,
+    "Organizer": "NGO",
+    "Details": "{'channels': ['Online', 'In-person'], 'follow_up': None}"
+  },
+  {
+    "State": "Assam",
+    "Year": 2016,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 3898,
+    "Feedback_Score": 1.94,
+    "Organizer": "NGO",
+    "Details": "{'channels': ['TV', 'Online'], 'follow_up': None}"
+  },
+  {
+    "State": "Assam",
+    "Year": 2017,
+    "Program_Type": "OnlineWebinar",
+    "People_Reached": 6374,
+    "Feedback_Score": 2.16,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"Radio\", \"Online\", \"In-person\", \"TV\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Assam",
+    "Year": 2017,
+    "Program_Type": "School Workshop",
+    "People_Reached": 4125,
+    "Feedback_Score": 3.19,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"Online\", \"In-person\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Assam",
+    "Year": 2017,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 2465,
+    "Feedback_Score": 1.82,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"Radio\", \"In-person\", \"TV\", \"Online\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Assam",
+    "Year": 2018,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 9858,
+    "Feedback_Score": 2.56,
+    "Organizer": "Private",
+    "Details": "{'channels': ['In-person', 'TV', 'Online'], 'follow_up': True}"
+  },
+  {
+    "State": "assam",
+    "Year": 2018,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 2109,
+    "Feedback_Score": 1.04,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"Radio\"], \"follow_up\": true}"
+  },
+  {
+    "State": "ASSAM",
+    "Year": 2018,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 428,
+    "Feedback_Score": 1.94,
+    "Organizer": "Private",
+    "Details": "{'channels': ['Radio', 'In-person', 'TV'], 'follow_up': False}"
+  },
+  {
+    "State": "ASSAM",
+    "Year": 2018,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 7709,
+    "Feedback_Score": 4.63,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"Online\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Assam",
+    "Year": 2019,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 8723,
+    "Feedback_Score": 1.7,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"Radio\", \"TV\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Assam",
+    "Year": 2019,
+    "Program_Type": "School Workshop",
+    "People_Reached": 9020,
+    "Feedback_Score": 2.47,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"Radio\"], \"follow_up\": false}"
+  },
+  {
+    "State": "assam",
+    "Year": 2020,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 7377,
+    "Feedback_Score": 2.22,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Radio\"], \"follow_up\": true}"
+  },
+  {
+    "State": "ASSAM",
+    "Year": 2020,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 3261,
+    "Feedback_Score": 2.21,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"Radio\"], \"follow_up\": true}"
+  },
+  {
+    "State": "ASSAM",
+    "Year": 2021,
+    "Program_Type": "School Workshop",
+    "People_Reached": 8847,
+    "Feedback_Score": 1.71,
+    "Organizer": "Private",
+    "Details": "{'channels': ['TV'], 'follow_up': True}"
+  },
+  {
+    "State": "Assam",
+    "Year": 2021,
+    "Program_Type": "School Workshop",
+    "People_Reached": 3150,
+    "Feedback_Score": 1.43,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"In-person\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Assam",
+    "Year": 2022,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 429,
+    "Feedback_Score": 5.0,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"In-person\", \"Online\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": 2016,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 5881,
+    "Feedback_Score": 3.59,
+    "Organizer": "NGO",
+    "Details": "{'channels': ['In-person', 'Radio'], 'follow_up': None}"
+  },
+  {
+    "State": "JHARKHAND",
+    "Year": 2016,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 4131,
+    "Feedback_Score": 4.62,
+    "Organizer": "NGO",
+    "Details": "{'channels': ['In-person'], 'follow_up': True}"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": 2016,
+    "Program_Type": "School Workshop",
+    "People_Reached": 2943,
+    "Feedback_Score": 3.0,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"TV\", \"Online\", \"Radio\", \"In-person\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": 2017,
+    "Program_Type": "School Workshop",
+    "People_Reached": 2958,
+    "Feedback_Score": 1.67,
+    "Organizer": "Govt",
+    "Details": "{'channels': ['Radio'], 'follow_up': None}"
+  },
+  {
+    "State": "JHARKHAND",
+    "Year": 2017,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 1922,
+    "Feedback_Score": 1.89,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"Radio\"], \"follow_up\": true}"
+  },
+  {
+    "State": "jharkhand",
+    "Year": 2017,
+    "Program_Type": "School Workshop",
+    "People_Reached": 7963,
+    "Feedback_Score": 1.9,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"Radio\", \"Online\", \"In-person\"], \"follow_up\": true}"
+  },
+  {
+    "State": "JHARKHAND",
+    "Year": 2017,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 7972,
+    "Feedback_Score": 4.58,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"In-person\", \"Online\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": 2018,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 9721,
+    "Feedback_Score": 2.38,
+    "Organizer": "NGO",
+    "Details": "{'channels': ['In-person', 'Online'], 'follow_up': False}"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": 2018,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 990,
+    "Feedback_Score": 3.33,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"In-person\", \"TV\", \"Online\"], \"follow_up\": null}"
+  },
+  {
+    "State": "jharkhand",
+    "Year": 2019,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 2590,
+    "Feedback_Score": 2.47,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"Radio\", \"Online\"], \"follow_up\": true}"
+  },
+  {
+    "State": "jharkhand",
+    "Year": 2020,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 9517,
+    "Feedback_Score": 3.27,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"Radio\", \"In-person\", \"TV\", \"Online\"], \"follow_up\": null}"
+  },
+  {
+    "State": "JHARKHAND",
+    "Year": 2020,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 9498,
+    "Feedback_Score": 3.41,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"Online\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": 2020,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 9095,
+    "Feedback_Score": 4.09,
+    "Organizer": "Govt",
+    "Details": "{'channels': ['TV', 'In-person', 'Online', 'Radio'], 'follow_up': True}"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": 2020,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 7469,
+    "Feedback_Score": 3.85,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Online\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": 2021,
+    "Program_Type": "School Workshop",
+    "People_Reached": 3046,
+    "Feedback_Score": 3.19,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Online\", \"TV\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": 2021,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 1325,
+    "Feedback_Score": 2.09,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"TV\", \"Radio\", \"Online\", \"In-person\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": 2021,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 8160,
+    "Feedback_Score": 3.43,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"In-person\", \"Radio\", \"TV\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": 2022,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 3508,
+    "Feedback_Score": 1.35,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Online\", \"In-person\", \"TV\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": 2022,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 2536,
+    "Feedback_Score": 2.58,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"In-person\", \"Radio\", \"Online\"], \"follow_up\": null}"
+  },
+  {
+    "State": "jharkhand",
+    "Year": 2022,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 8363,
+    "Feedback_Score": 3.97,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"Online\", \"In-person\", \"TV\"], \"follow_up\": null}"
+  },
+  {
+    "State": "JHARKHAND",
+    "Year": 2022,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 9494,
+    "Feedback_Score": 2.38,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"Radio\", \"Online\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Uttarakhand",
+    "Year": 2016,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 1218,
+    "Feedback_Score": 4.73,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"Online\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Uttarakhand",
+    "Year": 2016,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 5542,
+    "Feedback_Score": 1.71,
+    "Organizer": "Private",
+    "Details": "{'channels': ['In-person'], 'follow_up': True}"
+  },
+  {
+    "State": "UTTARAKHAND",
+    "Year": 2016,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 703,
+    "Feedback_Score": 2.07,
+    "Organizer": "University",
+    "Details": "{'channels': ['TV', 'In-person'], 'follow_up': None}"
+  },
+  {
+    "State": "UTTARAKHAND",
+    "Year": 2016,
+    "Program_Type": "School Workshop",
+    "People_Reached": 8978,
+    "Feedback_Score": 3.23,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"TV\", \"Radio\", \"Online\", \"In-person\"], \"follow_up\": false}"
+  },
+  {
+    "State": "uttarakhand",
+    "Year": 2017,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 693,
+    "Feedback_Score": 4.19,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"TV\", \"Radio\", \"In-person\", \"Online\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Uttarakhand",
+    "Year": 2017,
+    "Program_Type": "OnlineWebinar",
+    "People_Reached": 430,
+    "Feedback_Score": 1.85,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"Radio\", \"Online\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Uttarakhand",
+    "Year": 2017,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 5668,
+    "Feedback_Score": 1.41,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"TV\", \"Radio\", \"In-person\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Uttarakhand",
+    "Year": 2018,
+    "Program_Type": "School Workshop",
+    "People_Reached": 5082,
+    "Feedback_Score": 1.65,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"Radio\", \"TV\"], \"follow_up\": null}"
+  },
+  {
+    "State": "UTTARAKHAND",
+    "Year": 2018,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 6376,
+    "Feedback_Score": 4.78,
+    "Organizer": "University",
+    "Details": "{'channels': ['Online', 'Radio', 'In-person'], 'follow_up': None}"
+  },
+  {
+    "State": "Uttarakhand",
+    "Year": 2018,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 3473,
+    "Feedback_Score": 4.4,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"In-person\", \"Online\", \"TV\", \"Radio\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Uttarakhand",
+    "Year": 2019,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 2763,
+    "Feedback_Score": 1.58,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Radio\", \"Online\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Uttarakhand",
+    "Year": 2020,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 4941,
+    "Feedback_Score": 4.85,
+    "Organizer": "Private",
+    "Details": "{'channels': ['Online', 'In-person', 'Radio'], 'follow_up': None}"
+  },
+  {
+    "State": "Uttarakhand",
+    "Year": 2021,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 7531,
+    "Feedback_Score": 4.27,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"In-person\", \"Online\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Uttarakhand",
+    "Year": 2021,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 6845,
+    "Feedback_Score": 4.28,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"In-person\", \"TV\", \"Radio\"], \"follow_up\": null}"
+  },
+  {
+    "State": "UTTARAKHAND",
+    "Year": 2021,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 6368,
+    "Feedback_Score": 2.67,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"TV\", \"Radio\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Uttarakhand",
+    "Year": 2022,
+    "Program_Type": "School Workshop",
+    "People_Reached": 8266,
+    "Feedback_Score": 3.51,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"In-person\", \"Radio\"], \"follow_up\": null}"
+  },
+  {
+    "State": "UTTARAKHAND",
+    "Year": 2022,
+    "Program_Type": "School Workshop",
+    "People_Reached": 9166,
+    "Feedback_Score": 3.88,
+    "Organizer": "Govt",
+    "Details": "{'channels': ['Radio'], 'follow_up': False}"
+  },
+  {
+    "State": "Uttarakhand",
+    "Year": 2022,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 9957,
+    "Feedback_Score": 2.39,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"In-person\", \"Radio\", \"TV\", \"Online\"], \"follow_up\": null}"
+  },
+  {
+    "State": "uttarakhand",
+    "Year": 2022,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 8681,
+    "Feedback_Score": 4.0,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"Radio\", \"In-person\", \"Online\", \"TV\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Himachal Pradesh",
+    "Year": 2016,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 5273,
+    "Feedback_Score": 2.1,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"Radio\", \"In-person\", \"Online\", \"TV\"], \"follow_up\": true}"
+  },
+  {
+    "State": "HimachalPradesh",
+    "Year": 2016,
+    "Program_Type": "School Workshop",
+    "People_Reached": 1362,
+    "Feedback_Score": 4.25,
+    "Organizer": "NGO",
+    "Details": "{'channels': ['Radio', 'In-person'], 'follow_up': False}"
+  },
+  {
+    "State": "Himachal Pradesh",
+    "Year": 2017,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 8695,
+    "Feedback_Score": 1.4,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Radio\", \"TV\", \"In-person\"], \"follow_up\": true}"
+  },
+  {
+    "State": "HIMACHAL PRADESH",
+    "Year": 2017,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 2387,
+    "Feedback_Score": 2.25,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"TV\", \"In-person\", \"Radio\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Himachal-Pradesh",
+    "Year": 2017,
+    "Program_Type": "OnlineWebinar",
+    "People_Reached": 4291,
+    "Feedback_Score": 3.67,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"Online\", \"In-person\", \"TV\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Himachal-Pradesh",
+    "Year": 2017,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 2330,
+    "Feedback_Score": 3.69,
+    "Organizer": "Govt",
+    "Details": "{'channels': ['Online', 'Radio', 'TV'], 'follow_up': True}"
+  },
+  {
+    "State": "himachal pradesh",
+    "Year": 2018,
+    "Program_Type": "School Workshop",
+    "People_Reached": 6718,
+    "Feedback_Score": 1.91,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"TV\", \"In-person\"], \"follow_up\": true}"
+  },
+  {
+    "State": "HIMACHAL PRADESH",
+    "Year": 2019,
+    "Program_Type": "School Workshop",
+    "People_Reached": 3349,
+    "Feedback_Score": 2.35,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"In-person\", \"TV\", \"Online\", \"Radio\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Himachal-Pradesh",
+    "Year": 2020,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 6064,
+    "Feedback_Score": 4.78,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"Radio\", \"In-person\", \"TV\", \"Online\"], \"follow_up\": false}"
+  },
+  {
+    "State": "himachal pradesh",
+    "Year": 2020,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 8942,
+    "Feedback_Score": 3.61,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"TV\", \"Online\", \"Radio\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Himachal-Pradesh",
+    "Year": 2021,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 875,
+    "Feedback_Score": 4.4,
+    "Organizer": "NGO",
+    "Details": "{'channels': ['Radio', 'Online', 'In-person'], 'follow_up': False}"
+  },
+  {
+    "State": "HIMACHAL PRADESH",
+    "Year": 2021,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 1013,
+    "Feedback_Score": 3.37,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"Radio\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Himachal-Pradesh",
+    "Year": 2022,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 717,
+    "Feedback_Score": 2.57,
+    "Organizer": "NGO",
+    "Details": "{'channels': ['In-person'], 'follow_up': True}"
+  },
+  {
+    "State": "HimachalPradesh",
+    "Year": 2022,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 967,
+    "Feedback_Score": 4.05,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Online\", \"In-person\", \"Radio\", \"TV\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Goa",
+    "Year": 2016,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 9920,
+    "Feedback_Score": 2.49,
+    "Organizer": "University",
+    "Details": "{'channels': ['TV'], 'follow_up': False}"
+  },
+  {
+    "State": "Goa",
+    "Year": 2017,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 9284,
+    "Feedback_Score": 2.49,
+    "Organizer": "University",
+    "Details": "{'channels': ['In-person'], 'follow_up': True}"
+  },
+  {
+    "State": "GOA",
+    "Year": 2017,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 8836,
+    "Feedback_Score": 3.73,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"In-person\", \"Radio\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Goa",
+    "Year": 2017,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 8575,
+    "Feedback_Score": 1.08,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"TV\", \"Radio\", \"Online\", \"In-person\"], \"follow_up\": false}"
+  },
+  {
+    "State": "GOA",
+    "Year": 2017,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 9857,
+    "Feedback_Score": 3.95,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"Radio\", \"Online\", \"TV\"], \"follow_up\": null}"
+  },
+  {
+    "State": "GOA",
+    "Year": 2018,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 5947,
+    "Feedback_Score": 3.68,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"In-person\"], \"follow_up\": true}"
+  },
+  {
+    "State": "goa",
+    "Year": 2019,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 7297,
+    "Feedback_Score": 2.26,
+    "Organizer": "NGO",
+    "Details": "{'channels': ['Radio', 'Online'], 'follow_up': False}"
+  },
+  {
+    "State": "Goa",
+    "Year": 2020,
+    "Program_Type": "School Workshop",
+    "People_Reached": 6172,
+    "Feedback_Score": 4.68,
+    "Organizer": "Private",
+    "Details": "{'channels': ['TV', 'Online', 'In-person'], 'follow_up': True}"
+  },
+  {
+    "State": "GOA",
+    "Year": 2020,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 2617,
+    "Feedback_Score": 4.84,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"In-person\", \"TV\", \"Online\", \"Radio\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Goa",
+    "Year": 2021,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 5029,
+    "Feedback_Score": 1.41,
+    "Organizer": "University",
+    "Details": "{'channels': ['In-person', 'TV', 'Online'], 'follow_up': None}"
+  },
+  {
+    "State": "Goa",
+    "Year": 2021,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 2917,
+    "Feedback_Score": 4.52,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"Online\"], \"follow_up\": null}"
+  },
+  {
+    "State": "goa",
+    "Year": 2022,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 6226,
+    "Feedback_Score": 2.99,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"TV\", \"Radio\", \"In-person\", \"Online\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Goa",
+    "Year": 2022,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 2804,
+    "Feedback_Score": 4.56,
+    "Organizer": "Private",
+    "Details": "{'channels': ['Radio'], 'follow_up': False}"
+  },
+  {
+    "State": "GOA",
+    "Year": 2022,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 5125,
+    "Feedback_Score": 3.51,
+    "Organizer": "NGO",
+    "Details": "{'channels': ['Radio'], 'follow_up': False}"
+  },
+  {
+    "State": "Tripura",
+    "Year": 2016,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 329,
+    "Feedback_Score": 4.6,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"TV\", \"In-person\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Tripura",
+    "Year": 2016,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 684,
+    "Feedback_Score": 4.64,
+    "Organizer": "Private",
+    "Details": "{'channels': ['TV'], 'follow_up': None}"
+  },
+  {
+    "State": "tripura",
+    "Year": 2016,
+    "Program_Type": "School Workshop",
+    "People_Reached": 9062,
+    "Feedback_Score": 2.36,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"TV\"], \"follow_up\": false}"
+  },
+  {
+    "State": "TRIPURA",
+    "Year": 2017,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 6835,
+    "Feedback_Score": 1.1,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"In-person\", \"TV\", \"Radio\", \"Online\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Tripura",
+    "Year": 2017,
+    "Program_Type": "School Workshop",
+    "People_Reached": 7227,
+    "Feedback_Score": 1.97,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Online\", \"Radio\", \"In-person\", \"TV\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Tripura",
+    "Year": 2018,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 1563,
+    "Feedback_Score": 2.81,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"Radio\", \"In-person\", \"Online\", \"TV\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Tripura",
+    "Year": 2018,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 2632,
+    "Feedback_Score": 3.47,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"In-person\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Tripura",
+    "Year": 2018,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 7062,
+    "Feedback_Score": 1.06,
+    "Organizer": "Private",
+    "Details": "{'channels': ['TV', 'Online', 'In-person', 'Radio'], 'follow_up': False}"
+  },
+  {
+    "State": "Tripura",
+    "Year": 2019,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 9936,
+    "Feedback_Score": 1.09,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"Online\", \"In-person\", \"TV\", \"Radio\"], \"follow_up\": false}"
+  },
+  {
+    "State": "TRIPURA",
+    "Year": 2019,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 9255,
+    "Feedback_Score": 2.91,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"TV\", \"Online\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Tripura",
+    "Year": 2019,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 1482,
+    "Feedback_Score": 2.32,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"In-person\", \"Radio\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Tripura",
+    "Year": 2020,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 1364,
+    "Feedback_Score": 1.51,
+    "Organizer": "University",
+    "Details": "{'channels': ['Radio', 'In-person', 'Online'], 'follow_up': True}"
+  },
+  {
+    "State": "Tripura",
+    "Year": 2020,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 2100,
+    "Feedback_Score": 2.88,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Radio\", \"Online\", \"In-person\", \"TV\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Tripura",
+    "Year": 2020,
+    "Program_Type": "School Workshop",
+    "People_Reached": 9699,
+    "Feedback_Score": 1.43,
+    "Organizer": "Private",
+    "Details": "{'channels': ['TV'], 'follow_up': True}"
+  },
+  {
+    "State": "tripura",
+    "Year": 2020,
+    "Program_Type": "School Workshop",
+    "People_Reached": 8224,
+    "Feedback_Score": 3.52,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"Radio\", \"In-person\", \"TV\"], \"follow_up\": null}"
+  },
+  {
+    "State": "TRIPURA",
+    "Year": 2021,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 8426,
+    "Feedback_Score": 3.37,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Online\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Tripura",
+    "Year": 2021,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 8961,
+    "Feedback_Score": 3.54,
+    "Organizer": "Govt",
+    "Details": "{'channels': ['Radio', 'TV'], 'follow_up': False}"
+  },
+  {
+    "State": "tripura",
+    "Year": 2022,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 6453,
+    "Feedback_Score": 2.49,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"TV\", \"In-person\", \"Online\", \"Radio\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Tripura",
+    "Year": 2022,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 6605,
+    "Feedback_Score": 3.47,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Online\", \"In-person\"], \"follow_up\": false}"
+  },
+  {
+    "State": "MANIPUR",
+    "Year": 2016,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 4397,
+    "Feedback_Score": 4.76,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"Online\", \"Radio\", \"In-person\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Manipur",
+    "Year": 2016,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 6581,
+    "Feedback_Score": 2.89,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Radio\", \"In-person\", \"Online\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Manipur",
+    "Year": 2016,
+    "Program_Type": "School Workshop",
+    "People_Reached": 9039,
+    "Feedback_Score": 4.26,
+    "Organizer": "Govt",
+    "Details": "{'channels': ['Radio', 'In-person', 'Online'], 'follow_up': None}"
+  },
+  {
+    "State": "MANIPUR",
+    "Year": 2017,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 2696,
+    "Feedback_Score": 1.72,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"Radio\", \"Online\"], \"follow_up\": true}"
+  },
+  {
+    "State": "MANIPUR",
+    "Year": 2018,
+    "Program_Type": "School Workshop",
+    "People_Reached": 6255,
+    "Feedback_Score": 4.45,
+    "Organizer": "Private",
+    "Details": "{'channels': ['TV', 'Radio', 'Online', 'In-person'], 'follow_up': None}"
+  },
+  {
+    "State": "Manipur",
+    "Year": 2018,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 7969,
+    "Feedback_Score": 4.19,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Online\", \"TV\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Manipur",
+    "Year": 2018,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 9845,
+    "Feedback_Score": 1.26,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"TV\", \"In-person\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Manipur",
+    "Year": 2019,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 3368,
+    "Feedback_Score": 4.78,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"Online\", \"TV\", \"Radio\", \"In-person\"], \"follow_up\": false}"
+  },
+  {
+    "State": "manipur",
+    "Year": 2019,
+    "Program_Type": "OnlineWebinar",
+    "People_Reached": 294,
+    "Feedback_Score": 1.07,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"Radio\", \"In-person\", \"Online\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Manipur",
+    "Year": 2020,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 3636,
+    "Feedback_Score": 3.94,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"In-person\", \"Radio\", \"Online\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Manipur",
+    "Year": 2020,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 286,
+    "Feedback_Score": 3.84,
+    "Organizer": "Private",
+    "Details": "{'channels': ['Radio'], 'follow_up': None}"
+  },
+  {
+    "State": "Manipur",
+    "Year": 2020,
+    "Program_Type": "School Workshop",
+    "People_Reached": 637,
+    "Feedback_Score": 3.09,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"TV\", \"Online\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Manipur",
+    "Year": 2020,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 6600,
+    "Feedback_Score": 3.88,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"Radio\", \"In-person\", \"TV\"], \"follow_up\": false}"
+  },
+  {
+    "State": "MANIPUR",
+    "Year": 2021,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 2316,
+    "Feedback_Score": 1.19,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"Radio\"], \"follow_up\": null}"
+  },
+  {
+    "State": "manipur",
+    "Year": 2021,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 1865,
+    "Feedback_Score": 2.29,
+    "Organizer": "Govt",
+    "Details": "{'channels': ['Online', 'Radio', 'TV'], 'follow_up': None}"
+  },
+  {
+    "State": "Manipur",
+    "Year": 2021,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 822,
+    "Feedback_Score": 2.97,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Radio\", \"Online\", \"In-person\", \"TV\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Manipjr",
+    "Year": 2021,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 6680,
+    "Feedback_Score": 1.57,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"TV\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Manipur",
+    "Year": 2022,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 1736,
+    "Feedback_Score": 2.83,
+    "Organizer": "Govt",
+    "Details": "{'channels': ['TV', 'Radio', 'Online', 'In-person'], 'follow_up': False}"
+  },
+  {
+    "State": "Manipur",
+    "Year": 2022,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 703,
+    "Feedback_Score": 1.14,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Online\", \"Radio\"], \"follow_up\": null}"
+  },
+  {
+    "State": "MANIPUR",
+    "Year": 2022,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 108,
+    "Feedback_Score": 2.08,
+    "Organizer": "NGO",
+    "Details": "{'channels': ['Online'], 'follow_up': False}"
+  },
+  {
+    "State": "MEGHALAYA",
+    "Year": 2016,
+    "Program_Type": "School Workshop",
+    "People_Reached": 8802,
+    "Feedback_Score": 2.75,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"TV\", \"Online\"], \"follow_up\": true}"
+  },
+  {
+    "State": "MEGHALAYA",
+    "Year": 2016,
+    "Program_Type": "School Workshop",
+    "People_Reached": 6379,
+    "Feedback_Score": 4.69,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"In-person\", \"Online\"], \"follow_up\": true}"
+  },
+  {
+    "State": "meghalaya",
+    "Year": 2017,
+    "Program_Type": "TVCampaign",
+    "People_Reached": 5851,
+    "Feedback_Score": 1.32,
+    "Organizer": "NGO",
+    "Details": "{'channels': ['Online', 'Radio', 'In-person', 'TV'], 'follow_up': None}"
+  },
+  {
+    "State": "Meghalaya",
+    "Year": 2018,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 8269,
+    "Feedback_Score": 4.81,
+    "Organizer": "University",
+    "Details": "{'channels': ['TV', 'In-person'], 'follow_up': True}"
+  },
+  {
+    "State": "MEGHALAYA",
+    "Year": 2018,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 5257,
+    "Feedback_Score": 3.28,
+    "Organizer": "NGO",
+    "Details": "{'channels': ['Radio', 'TV', 'Online', 'In-person'], 'follow_up': None}"
+  },
+  {
+    "State": "Meghalaya",
+    "Year": 2018,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 266,
+    "Feedback_Score": 3.78,
+    "Organizer": "University",
+    "Details": "{'channels': ['Radio', 'TV', 'Online'], 'follow_up': False}"
+  },
+  {
+    "State": "MEGHALAYA",
+    "Year": 2018,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 5351,
+    "Feedback_Score": 1.48,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"In-person\", \"TV\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Meghalaya",
+    "Year": 2019,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 2254,
+    "Feedback_Score": 1.15,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Online\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Meghalaya",
+    "Year": 2020,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 9671,
+    "Feedback_Score": 3.3,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"In-person\", \"TV\", \"Radio\", \"Online\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Meghalaya",
+    "Year": 2021,
+    "Program_Type": "School Workshop",
+    "People_Reached": 1635,
+    "Feedback_Score": 1.4,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Online\", \"TV\", \"In-person\"], \"follow_up\": null}"
+  },
+  {
+    "State": "meghalaya",
+    "Year": 2021,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 3685,
+    "Feedback_Score": 4.98,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"Online\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Meghalaya",
+    "Year": 2022,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 2249,
+    "Feedback_Score": 4.83,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"In-person\", \"Online\", \"TV\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Meghalaya",
+    "Year": 2022,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 5195,
+    "Feedback_Score": 1.03,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"Radio\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Meghalaya",
+    "Year": 2022,
+    "Program_Type": "School Workshop",
+    "People_Reached": 2764,
+    "Feedback_Score": 4.75,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"TV\", \"Radio\", \"In-person\"], \"follow_up\": true}"
+  },
+  {
+    "State": "MIZORAM",
+    "Year": 2016,
+    "Program_Type": "School Workshop",
+    "People_Reached": 9890,
+    "Feedback_Score": 4.7,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"Online\", \"Radio\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Mizoram",
+    "Year": 2016,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 2845,
+    "Feedback_Score": 3.25,
+    "Organizer": "Govt",
+    "Details": "{'channels': ['TV', 'In-person', 'Radio'], 'follow_up': None}"
+  },
+  {
+    "State": "Mizoram",
+    "Year": 2017,
+    "Program_Type": "School Workshop",
+    "People_Reached": 3178,
+    "Feedback_Score": 1.17,
+    "Organizer": "University",
+    "Details": "{'channels': ['Radio', 'In-person', 'Online'], 'follow_up': None}"
+  },
+  {
+    "State": "MIZORAM",
+    "Year": 2018,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 9399,
+    "Feedback_Score": 4.88,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"Online\", \"Radio\"], \"follow_up\": false}"
+  },
+  {
+    "State": "mizoram",
+    "Year": 2018,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 8606,
+    "Feedback_Score": 4.26,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"In-person\"], \"follow_up\": true}"
+  },
+  {
+    "State": "mizoram",
+    "Year": 2018,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 2800,
+    "Feedback_Score": 4.97,
+    "Organizer": "Govt",
+    "Details": "{'channels': ['In-person', 'TV', 'Radio'], 'follow_up': True}"
+  },
+  {
+    "State": "mizoram",
+    "Year": 2018,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 8511,
+    "Feedback_Score": 2.23,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"Online\"], \"follow_up\": false}"
+  },
+  {
+    "State": "mizoram",
+    "Year": 2019,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 6301,
+    "Feedback_Score": 4.92,
+    "Organizer": "NGO",
+    "Details": "{'channels': ['TV', 'In-person', 'Online'], 'follow_up': None}"
+  },
+  {
+    "State": "Mizoram",
+    "Year": 2019,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 9259,
+    "Feedback_Score": 3.45,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"Radio\", \"In-person\", \"TV\"], \"follow_up\": true}"
+  },
+  {
+    "State": "mizoram",
+    "Year": 2019,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 6878,
+    "Feedback_Score": 1.55,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"TV\", \"Online\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Mizoram",
+    "Year": 2020,
+    "Program_Type": "School Workshop",
+    "People_Reached": 1199,
+    "Feedback_Score": 3.66,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"In-person\", \"Online\"], \"follow_up\": true}"
+  },
+  {
+    "State": "MIZORAM",
+    "Year": 2021,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 1088,
+    "Feedback_Score": 3.87,
+    "Organizer": "Govt",
+    "Details": "{'channels': ['In-person', 'Online', 'Radio', 'TV'], 'follow_up': None}"
+  },
+  {
+    "State": "mizoram",
+    "Year": 2022,
+    "Program_Type": "CommunityOutreach",
+    "People_Reached": 1425,
+    "Feedback_Score": 1.94,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Radio\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Mizoram",
+    "Year": 2022,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 7279,
+    "Feedback_Score": 3.53,
+    "Organizer": "NGO",
+    "Details": "{'channels': ['TV', 'Radio', 'Online', 'In-person'], 'follow_up': None}"
+  },
+  {
+    "State": "mizoram",
+    "Year": 2022,
+    "Program_Type": "School Workshop",
+    "People_Reached": 7677,
+    "Feedback_Score": 1.31,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"TV\", \"Online\", \"Radio\", \"In-person\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Mizoram",
+    "Year": 2022,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 5119,
+    "Feedback_Score": 3.91,
+    "Organizer": "NGO",
+    "Details": "{'channels': ['Online'], 'follow_up': None}"
+  },
+  {
+    "State": "NAGALAND",
+    "Year": 2016,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 266,
+    "Feedback_Score": 1.73,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Radio\", \"In-person\", \"TV\", \"Online\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Nagaland",
+    "Year": 2016,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 3754,
+    "Feedback_Score": 3.1,
+    "Organizer": "Private",
+    "Details": "{'channels': ['In-person', 'Radio', 'Online', 'TV'], 'follow_up': False}"
+  },
+  {
+    "State": "Nagaland",
+    "Year": 2016,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 3786,
+    "Feedback_Score": 4.04,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"TV\", \"Radio\"], \"follow_up\": null}"
+  },
+  {
+    "State": "nagaland",
+    "Year": 2017,
+    "Program_Type": "School Workshop",
+    "People_Reached": 7208,
+    "Feedback_Score": 1.51,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"Online\"], \"follow_up\": false}"
+  },
+  {
+    "State": "nagaland",
+    "Year": 2017,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 5967,
+    "Feedback_Score": 1.98,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"In-person\", \"TV\"], \"follow_up\": false}"
+  },
+  {
+    "State": "nagaland",
+    "Year": 2018,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 7795,
+    "Feedback_Score": 2.76,
+    "Organizer": "University",
+    "Details": "{'channels': ['Radio'], 'follow_up': None}"
+  },
+  {
+    "State": "Nagaland",
+    "Year": 2018,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 67,
+    "Feedback_Score": 2.91,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Radio\", \"Online\", \"In-person\", \"TV\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Nagaland",
+    "Year": 2018,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 7155,
+    "Feedback_Score": 2.16,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"In-person\", \"Online\", \"TV\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Nagaland",
+    "Year": 2018,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 4668,
+    "Feedback_Score": 3.37,
+    "Organizer": "Private",
+    "Details": "{'channels': ['In-person', 'Radio', 'TV'], 'follow_up': None}"
+  },
+  {
+    "State": "Nagaland",
+    "Year": 2019,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 9239,
+    "Feedback_Score": 2.41,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"Online\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Nagaland",
+    "Year": 2019,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 4744,
+    "Feedback_Score": 4.04,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"TV\", \"In-person\", \"Radio\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Nagaland",
+    "Year": 2020,
+    "Program_Type": "School Workshop",
+    "People_Reached": 1741,
+    "Feedback_Score": 1.48,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"In-person\", \"TV\", \"Radio\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Nagaland",
+    "Year": 2020,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 9617,
+    "Feedback_Score": 4.12,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"TV\", \"In-person\", \"Online\"], \"follow_up\": true}"
+  },
+  {
+    "State": "nagaland",
+    "Year": 2021,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 7825,
+    "Feedback_Score": 4.38,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"Radio\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Nagaland",
+    "Year": 2022,
+    "Program_Type": "School Workshop",
+    "People_Reached": 9515,
+    "Feedback_Score": 1.21,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"Online\", \"TV\", \"Radio\", \"In-person\"], \"follow_up\": false}"
+  },
+  {
+    "State": "SIKKIM",
+    "Year": 2016,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 3257,
+    "Feedback_Score": 4.82,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"TV\", \"In-person\"], \"follow_up\": null}"
+  },
+  {
+    "State": "SIKKIM",
+    "Year": 2017,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 1766,
+    "Feedback_Score": 2.77,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"TV\", \"Radio\", \"Online\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Sikkim",
+    "Year": 2017,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 4609,
+    "Feedback_Score": 3.17,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"TV\", \"Online\", \"In-person\", \"Radio\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Sikkim",
+    "Year": 2017,
+    "Program_Type": "School Workshop",
+    "People_Reached": 7088,
+    "Feedback_Score": 3.02,
+    "Organizer": "Govt",
+    "Details": "{'channels': ['Online', 'TV', 'Radio', 'In-person'], 'follow_up': False}"
+  },
+  {
+    "State": "Sikkim",
+    "Year": 2017,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 9687,
+    "Feedback_Score": 2.37,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"In-person\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Sikkim",
+    "Year": 2018,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 6862,
+    "Feedback_Score": 3.31,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"Radio\", \"TV\", \"Online\", \"In-person\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Sikkim",
+    "Year": 2019,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 5305,
+    "Feedback_Score": 3.34,
+    "Organizer": "University",
+    "Details": "{'channels': ['Online'], 'follow_up': False}"
+  },
+  {
+    "State": "sikkim",
+    "Year": 2019,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 4715,
+    "Feedback_Score": 3.61,
+    "Organizer": "NGO",
+    "Details": "{'channels': ['In-person'], 'follow_up': True}"
+  },
+  {
+    "State": "sikkim",
+    "Year": 2019,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 1929,
+    "Feedback_Score": 2.46,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"TV\", \"Online\", \"In-person\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Sikkim",
+    "Year": 2020,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 7930,
+    "Feedback_Score": 3.06,
+    "Organizer": "NGO",
+    "Details": "{'channels': ['Online', 'TV', 'In-person', 'Radio'], 'follow_up': False}"
+  },
+  {
+    "State": "Sikkim",
+    "Year": 2020,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 2696,
+    "Feedback_Score": 2.4,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"TV\", \"In-person\", \"Online\", \"Radio\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Sikkim",
+    "Year": 2020,
+    "Program_Type": "School Workshop",
+    "People_Reached": 1902,
+    "Feedback_Score": 1.92,
+    "Organizer": "Govt",
+    "Details": "{'channels': ['Online', 'TV'], 'follow_up': True}"
+  },
+  {
+    "State": "Sikkim",
+    "Year": 2020,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 6409,
+    "Feedback_Score": 1.05,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"Online\", \"Radio\", \"TV\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Sikkim",
+    "Year": 2021,
+    "Program_Type": "SchoolWorkshop",
+    "People_Reached": 1426,
+    "Feedback_Score": 3.04,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"Online\", \"Radio\"], \"follow_up\": true}"
+  },
+  {
+    "State": "sikkim",
+    "Year": 2021,
+    "Program_Type": "School Workshop",
+    "People_Reached": 722,
+    "Feedback_Score": 1.24,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"In-person\", \"Radio\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Sikkim",
+    "Year": 2022,
+    "Program_Type": "School Workshop",
+    "People_Reached": 5802,
+    "Feedback_Score": 1.99,
+    "Organizer": "University",
+    "Details": "{'channels': ['TV', 'In-person'], 'follow_up': True}"
+  },
+  {
+    "State": "Sikkim",
+    "Year": 2022,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 4135,
+    "Feedback_Score": 4.97,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"In-person\", \"TV\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Sikkim",
+    "Year": 2022,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 443,
+    "Feedback_Score": 4.39,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"Online\", \"TV\", \"Radio\", \"In-person\"], \"follow_up\": null}"
+  },
+  {
+    "State": "sikkim",
+    "Year": 2022,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 7373,
+    "Feedback_Score": 4.61,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"Radio\", \"Online\", \"In-person\", \"TV\"], \"follow_up\": true}"
+  },
+  {
+    "State": "ArunachalPradesh",
+    "Year": 2016,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 1856,
+    "Feedback_Score": 3.7,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"In-person\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Arunachal Pradesh",
+    "Year": 2016,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 6220,
+    "Feedback_Score": 3.04,
+    "Organizer": "NGO",
+    "Details": "{'channels': ['Radio', 'Online'], 'follow_up': None}"
+  },
+  {
+    "State": "ARUNACHAL PRADESH",
+    "Year": 2016,
+    "Program_Type": "School Workshop",
+    "People_Reached": 5711,
+    "Feedback_Score": 4.26,
+    "Organizer": "NGO",
+    "Details": "{'channels': ['Radio', 'TV', 'Online', 'In-person'], 'follow_up': False}"
+  },
+  {
+    "State": "Arunachal-Pradesh",
+    "Year": 2016,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 8849,
+    "Feedback_Score": 1.83,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Online\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Arunachal-Pradesh",
+    "Year": 2017,
+    "Program_Type": "School Workshop",
+    "People_Reached": 7735,
+    "Feedback_Score": 2.11,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Online\", \"Radio\", \"TV\", \"In-person\"], \"follow_up\": null}"
+  },
+  {
+    "State": "arunachal pradesh",
+    "Year": 2018,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 1600,
+    "Feedback_Score": 3.91,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"Radio\", \"TV\"], \"follow_up\": false}"
+  },
+  {
+    "State": "arunachal pradesh",
+    "Year": 2019,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 6134,
+    "Feedback_Score": 1.76,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"Online\", \"Radio\", \"TV\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Arunachal-Pradesh",
+    "Year": 2019,
+    "Program_Type": "School Workshop",
+    "People_Reached": 8738,
+    "Feedback_Score": 1.6,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"Radio\", \"In-person\", \"Online\", \"TV\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Arunachal-Pradesh",
+    "Year": 2019,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 6347,
+    "Feedback_Score": 1.74,
+    "Organizer": "Private",
+    "Details": "{'channels': ['In-person', 'Radio', 'TV'], 'follow_up': None}"
+  },
+  {
+    "State": "Arunachal-Pradesh",
+    "Year": 2020,
+    "Program_Type": "TVCampaign",
+    "People_Reached": 53,
+    "Feedback_Score": 2.8,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"TV\", \"In-person\", \"Online\"], \"follow_up\": true}"
+  },
+  {
+    "State": "arunachal pradesh",
+    "Year": 2020,
+    "Program_Type": "School Workshop",
+    "People_Reached": 7268,
+    "Feedback_Score": 3.92,
+    "Organizer": "NGO",
+    "Details": "{'channels': ['Online'], 'follow_up': True}"
+  },
+  {
+    "State": "Arunachal-Pradesh",
+    "Year": 2020,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 9381,
+    "Feedback_Score": 4.5,
+    "Organizer": "University",
+    "Details": "{'channels': ['In-person'], 'follow_up': None}"
+  },
+  {
+    "State": "Arunachal Pradesh",
+    "Year": 2021,
+    "Program_Type": "School Workshop",
+    "People_Reached": 4918,
+    "Feedback_Score": 3.0,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"In-person\", \"TV\", \"Online\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Arunamhal Pradesh",
+    "Year": 2021,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 2301,
+    "Feedback_Score": 3.4,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"TV\", \"Radio\"], \"follow_up\": false}"
+  },
+  {
+    "State": "ArunachalPradesh",
+    "Year": 2021,
+    "Program_Type": "School Workshop",
+    "People_Reached": 7032,
+    "Feedback_Score": 4.77,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"Radio\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Arunachal Pradesh",
+    "Year": 2021,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 5597,
+    "Feedback_Score": 3.02,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"Online\", \"Radio\", \"TV\", \"In-person\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Arunachal Pradesh",
+    "Year": 2022,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 1256,
+    "Feedback_Score": 3.88,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"TV\"], \"follow_up\": null}"
+  },
+  {
+    "State": "ARUNACHAL PRADESH",
+    "Year": 2022,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 8798,
+    "Feedback_Score": 3.91,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"Radio\", \"Online\", \"In-person\", \"TV\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Arunachal Pradesh",
+    "Year": 2022,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 4121,
+    "Feedback_Score": 4.32,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Radio\", \"In-person\", \"Online\", \"TV\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Delhi",
+    "Year": 2016,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 3741,
+    "Feedback_Score": 3.36,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"Radio\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Delhi",
+    "Year": 2017,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 9455,
+    "Feedback_Score": 3.1,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"In-person\", \"Online\", \"TV\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Delhi",
+    "Year": 2017,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 7826,
+    "Feedback_Score": 4.89,
+    "Organizer": "NGO",
+    "Details": "{'channels': ['In-person'], 'follow_up': False}"
+  },
+  {
+    "State": "DELHI",
+    "Year": 2017,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 7206,
+    "Feedback_Score": 4.63,
+    "Organizer": "University",
+    "Details": "{'channels': ['TV', 'In-person', 'Radio'], 'follow_up': True}"
+  },
+  {
+    "State": "DELHI",
+    "Year": 2017,
+    "Program_Type": "School Workshop",
+    "People_Reached": 1574,
+    "Feedback_Score": 4.57,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"Radio\"], \"follow_up\": false}"
+  },
+  {
+    "State": "delhi",
+    "Year": 2018,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 4464,
+    "Feedback_Score": 4.85,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"Radio\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Delhi",
+    "Year": 2019,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 8654,
+    "Feedback_Score": 2.82,
+    "Organizer": "Govt",
+    "Details": "{'channels': ['Online', 'In-person', 'TV', 'Radio'], 'follow_up': True}"
+  },
+  {
+    "State": "Delhi",
+    "Year": 2020,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 4406,
+    "Feedback_Score": 2.18,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"In-person\", \"TV\", \"Radio\", \"Online\"], \"follow_up\": false}"
+  },
+  {
+    "State": "DELHI",
+    "Year": 2021,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 3746,
+    "Feedback_Score": 1.48,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"Radio\", \"Online\", \"TV\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Delhi",
+    "Year": 2022,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 6242,
+    "Feedback_Score": 3.21,
+    "Organizer": "Govt",
+    "Details": "{'channels': ['Radio'], 'follow_up': None}"
+  },
+  {
+    "State": "delhi",
+    "Year": 2022,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 3446,
+    "Feedback_Score": 3.94,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"TV\", \"Online\", \"Radio\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Jammu-&-Kashmir",
+    "Year": 2016,
+    "Program_Type": "School Workshop",
+    "People_Reached": 240,
+    "Feedback_Score": 2.36,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"TV\", \"Radio\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Jammu & Kashmir",
+    "Year": 2016,
+    "Program_Type": "School Workshop",
+    "People_Reached": 9404,
+    "Feedback_Score": 3.69,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"Radio\", \"Online\", \"TV\", \"In-person\"], \"follow_up\": null}"
+  },
+  {
+    "State": "JAMMU & KASHMIR",
+    "Year": 2017,
+    "Program_Type": "School Workshop",
+    "People_Reached": 5880,
+    "Feedback_Score": 1.47,
+    "Organizer": "Govt",
+    "Details": "{'channels': ['TV', 'Radio'], 'follow_up': False}"
+  },
+  {
+    "State": "Jammu-&-Kashmir",
+    "Year": 2017,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 6727,
+    "Feedback_Score": 4.43,
+    "Organizer": "University",
+    "Details": "{'channels': ['In-person', 'TV'], 'follow_up': False}"
+  },
+  {
+    "State": "JAMMU & KASHMIR",
+    "Year": 2017,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 6571,
+    "Feedback_Score": 3.01,
+    "Organizer": "NGO",
+    "Details": "{'channels': ['TV', 'Online'], 'follow_up': None}"
+  },
+  {
+    "State": "JAMMU & KASHMIR",
+    "Year": 2018,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 7003,
+    "Feedback_Score": 1.61,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"Radio\", \"Online\", \"TV\", \"In-person\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Jammu&Kashmir",
+    "Year": 2019,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 4308,
+    "Feedback_Score": 2.07,
+    "Organizer": "Private",
+    "Details": "{'channels': ['Radio'], 'follow_up': False}"
+  },
+  {
+    "State": "Jammu & Kashmir",
+    "Year": 2019,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 2229,
+    "Feedback_Score": 3.8,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"In-person\", \"Online\"], \"follow_up\": false}"
+  },
+  {
+    "State": "jammu & kashmir",
+    "Year": 2019,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 2823,
+    "Feedback_Score": 3.96,
+    "Organizer": "NGO",
+    "Details": "{'channels': ['In-person'], 'follow_up': False}"
+  },
+  {
+    "State": "JAMMU & KASHMIR",
+    "Year": 2020,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 5581,
+    "Feedback_Score": 3.34,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"TV\", \"Radio\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Jammu-&-Kashmir",
+    "Year": 2021,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 4816,
+    "Feedback_Score": 2.75,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"TV\", \"Radio\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Jammu-&-Kashmir",
+    "Year": 2021,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 9023,
+    "Feedback_Score": 2.48,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"In-person\", \"TV\", \"Online\", \"Radio\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Jammu & Kashmir",
+    "Year": 2021,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 4716,
+    "Feedback_Score": 3.7,
+    "Organizer": "NGO",
+    "Details": "{'channels': ['Online', 'In-person'], 'follow_up': False}"
+  },
+  {
+    "State": "jammu & kashmir",
+    "Year": 2022,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 7443,
+    "Feedback_Score": 4.91,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"Online\", \"TV\", \"In-person\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Jammu & Kashmir",
+    "Year": 2022,
+    "Program_Type": "School Workshop",
+    "People_Reached": 1403,
+    "Feedback_Score": 4.66,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"Radio\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Puducherry",
+    "Year": 2016,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 1215,
+    "Feedback_Score": 2.58,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"TV\", \"Online\", \"In-person\", \"Radio\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Puducherry",
+    "Year": 2016,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 3860,
+    "Feedback_Score": 1.36,
+    "Organizer": "Govt",
+    "Details": "{'channels': ['In-person', 'Online', 'TV', 'Radio'], 'follow_up': True}"
+  },
+  {
+    "State": "Puducherry",
+    "Year": 2016,
+    "Program_Type": "School Workshop",
+    "People_Reached": 9829,
+    "Feedback_Score": 3.67,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"Radio\", \"TV\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Puducherry",
+    "Year": 2016,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 2235,
+    "Feedback_Score": 4.56,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"In-person\", \"Online\"], \"follow_up\": false}"
+  },
+  {
+    "State": "PUDUCHERRY",
+    "Year": 2017,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 6194,
+    "Feedback_Score": 2.73,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"Online\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Puducherry",
+    "Year": 2017,
+    "Program_Type": "School Workshop",
+    "People_Reached": 4236,
+    "Feedback_Score": 1.49,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"In-person\", \"Online\", \"Radio\", \"TV\"], \"follow_up\": true}"
+  },
+  {
+    "State": "PUDUCHERRY",
+    "Year": 2017,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 2361,
+    "Feedback_Score": 4.99,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Radio\", \"Online\", \"In-person\"], \"follow_up\": null}"
+  },
+  {
+    "State": "puducherry",
+    "Year": 2018,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 5867,
+    "Feedback_Score": 4.12,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"Online\", \"Radio\", \"In-person\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Puducherry",
+    "Year": 2019,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 7979,
+    "Feedback_Score": 2.66,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"TV\", \"Online\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Puducherry",
+    "Year": 2019,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 2478,
+    "Feedback_Score": 4.68,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"Radio\", \"TV\", \"In-person\", \"Online\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Puducherry",
+    "Year": 2020,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 1124,
+    "Feedback_Score": 1.2,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"Online\", \"TV\", \"Radio\"], \"follow_up\": false}"
+  },
+  {
+    "State": "PUDUCHERRY",
+    "Year": 2020,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 4838,
+    "Feedback_Score": 1.75,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"TV\", \"Radio\", \"In-person\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Puducherry",
+    "Year": 2020,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 8708,
+    "Feedback_Score": 1.91,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"In-person\", \"TV\", \"Radio\", \"Online\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Puducherry",
+    "Year": 2020,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 4202,
+    "Feedback_Score": 4.47,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"Online\"], \"follow_up\": null}"
+  },
+  {
+    "State": "PUDUCHERRY",
+    "Year": 2021,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 2680,
+    "Feedback_Score": 2.42,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"Online\", \"Radio\", \"TV\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Puducherry",
+    "Year": 2021,
+    "Program_Type": "School Workshop",
+    "People_Reached": 1236,
+    "Feedback_Score": 3.41,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"Radio\"], \"follow_up\": true}"
+  },
+  {
+    "State": "puducherry",
+    "Year": 2021,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 6408,
+    "Feedback_Score": 1.25,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"Radio\", \"Online\", \"In-person\", \"TV\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Puducherry",
+    "Year": 2022,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 9192,
+    "Feedback_Score": 4.66,
+    "Organizer": "NGO",
+    "Details": "{'channels': ['TV', 'Online', 'Radio'], 'follow_up': None}"
+  },
+  {
+    "State": "Puducherry",
+    "Year": 2022,
+    "Program_Type": "School Workshop",
+    "People_Reached": 3161,
+    "Feedback_Score": 2.74,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"Radio\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Puducherry",
+    "Year": 2022,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 310,
+    "Feedback_Score": 3.93,
+    "Organizer": "Private",
+    "Details": "{'channels': ['In-person'], 'follow_up': False}"
+  },
+  {
+    "State": "PUDUCHERRY",
+    "Year": 2022,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 4332,
+    "Feedback_Score": 3.17,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"TV\", \"Online\", \"In-person\", \"Radio\"], \"follow_up\": true}"
+  },
+  {
+    "State": "CHANDIGARH",
+    "Year": 2016,
+    "Program_Type": "School Workshop",
+    "People_Reached": 404,
+    "Feedback_Score": 2.49,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"TV\", \"Radio\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Chandigarh",
+    "Year": 2017,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 390,
+    "Feedback_Score": 1.14,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"In-person\", \"TV\", \"Radio\"], \"follow_up\": true}"
+  },
+  {
+    "State": "CHANDIGARH",
+    "Year": 2017,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 4838,
+    "Feedback_Score": 2.87,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"TV\"], \"follow_up\": true}"
+  },
+  {
+    "State": "chandigarh",
+    "Year": 2017,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 2246,
+    "Feedback_Score": 3.84,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Online\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Chandigarh",
+    "Year": 2017,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 9817,
+    "Feedback_Score": 2.22,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"In-person\", \"Radio\", \"Online\"], \"follow_up\": true}"
+  },
+  {
+    "State": "chandigarh",
+    "Year": 2018,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 4015,
+    "Feedback_Score": 2.88,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"In-person\", \"Online\", \"Radio\"], \"follow_up\": false}"
+  },
+  {
+    "State": "CHANDIGARH",
+    "Year": 2018,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 9568,
+    "Feedback_Score": 3.7,
+    "Organizer": "NGO",
+    "Details": "{'channels': ['Radio', 'TV'], 'follow_up': False}"
+  },
+  {
+    "State": "Chandigarh",
+    "Year": 2018,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 9976,
+    "Feedback_Score": 2.22,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"In-person\"], \"follow_up\": true}"
+  },
+  {
+    "State": "chandigarh",
+    "Year": 2018,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 328,
+    "Feedback_Score": 2.44,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"Radio\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Chandigarh",
+    "Year": 2019,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 963,
+    "Feedback_Score": 2.14,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"TV\", \"In-person\", \"Online\", \"Radio\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Chandigarh",
+    "Year": 2019,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 7265,
+    "Feedback_Score": 1.02,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"TV\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Chandigarh",
+    "Year": 2019,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 5499,
+    "Feedback_Score": 1.26,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"TV\", \"Radio\"], \"follow_up\": false}"
+  },
+  {
+    "State": "chandigarh",
+    "Year": 2019,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 8814,
+    "Feedback_Score": 1.05,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"TV\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Chandigarh",
+    "Year": 2020,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 2114,
+    "Feedback_Score": 4.76,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"TV\", \"In-person\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Chandigarh",
+    "Year": 2020,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 4294,
+    "Feedback_Score": 3.57,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Radio\", \"Online\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Chandigarh",
+    "Year": 2020,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 4063,
+    "Feedback_Score": 4.42,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"Online\", \"TV\", \"Radio\"], \"follow_up\": null}"
+  },
+  {
+    "State": "CHANDIGARH",
+    "Year": 2021,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 2822,
+    "Feedback_Score": 2.07,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Online\", \"TV\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Chandigarh",
+    "Year": 2021,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 259,
+    "Feedback_Score": 1.65,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"In-person\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Chandigarh",
+    "Year": 2022,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 9418,
+    "Feedback_Score": 3.1,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"In-person\", \"Online\"], \"follow_up\": true}"
+  },
+  {
+    "State": "chandigarh",
+    "Year": 2022,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 3647,
+    "Feedback_Score": 4.46,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"TV\", \"Online\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Chandigarh",
+    "Year": 2022,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 4412,
+    "Feedback_Score": 1.02,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Online\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Chandigarh",
+    "Year": 2022,
+    "Program_Type": "School Workshop",
+    "People_Reached": 1090,
+    "Feedback_Score": 2.39,
+    "Organizer": "Private",
+    "Details": "{'channels': ['Radio', 'In-person', 'TV', 'Online'], 'follow_up': False}"
+  },
+  {
+    "State": "Ladakh",
+    "Year": 2016,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 5910,
+    "Feedback_Score": 2.6,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"TV\", \"Radio\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Ladakh",
+    "Year": 2016,
+    "Program_Type": "School Workshop",
+    "People_Reached": 8681,
+    "Feedback_Score": 4.04,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"In-person\", \"Online\", \"TV\", \"Radio\"], \"follow_up\": false}"
+  },
+  {
+    "State": "LADAKH",
+    "Year": 2017,
+    "Program_Type": "Community Outreach",
+    "People_Reached": 2396,
+    "Feedback_Score": 1.54,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"In-person\", \"Radio\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Ladakh",
+    "Year": 2017,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 3392,
+    "Feedback_Score": 1.42,
+    "Organizer": "NGO",
+    "Details": "{\"channels\": [\"TV\", \"Radio\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Ladakh",
+    "Year": 2017,
+    "Program_Type": "SchoolWorkshop",
+    "People_Reached": 9142,
+    "Feedback_Score": 1.99,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"TV\"], \"follow_up\": null}"
+  },
+  {
+    "State": "Ladakh",
+    "Year": 2017,
+    "Program_Type": "School Workshop",
+    "People_Reached": 3128,
+    "Feedback_Score": 2.43,
+    "Organizer": "University",
+    "Details": "{'channels': ['TV'], 'follow_up': None}"
+  },
+  {
+    "State": "Ladakh",
+    "Year": 2018,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 2848,
+    "Feedback_Score": 3.87,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"TV\", \"Online\"], \"follow_up\": false}"
+  },
+  {
+    "State": "Ladakh",
+    "Year": 2018,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 6597,
+    "Feedback_Score": 3.06,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Radio\", \"TV\", \"Online\"], \"follow_up\": false}"
+  },
+  {
+    "State": "LADAKH",
+    "Year": 2019,
+    "Program_Type": "School Workshop",
+    "People_Reached": 6466,
+    "Feedback_Score": 2.31,
+    "Organizer": "Private",
+    "Details": "{'channels': ['In-person'], 'follow_up': False}"
+  },
+  {
+    "State": "LADAKH",
+    "Year": 2020,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 2404,
+    "Feedback_Score": 3.54,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"TV\"], \"follow_up\": true}"
+  },
+  {
+    "State": "LADAKH",
+    "Year": 2020,
+    "Program_Type": "Online Webinar",
+    "People_Reached": 5387,
+    "Feedback_Score": 3.8,
+    "Organizer": "University",
+    "Details": "{\"channels\": [\"Radio\"], \"follow_up\": true}"
+  },
+  {
+    "State": "Ladakh",
+    "Year": 2021,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 6457,
+    "Feedback_Score": 3.32,
+    "Organizer": "NGO",
+    "Details": "{'channels': ['TV', 'Radio'], 'follow_up': True}"
+  },
+  {
+    "State": "Ladakh",
+    "Year": 2022,
+    "Program_Type": "TV Campaign",
+    "People_Reached": 5516,
+    "Feedback_Score": 2.23,
+    "Organizer": "NGO",
+    "Details": "{'channels': ['Online', 'TV'], 'follow_up': None}"
+  },
+  {
+    "State": "Ladakh",
+    "Year": 2022,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 4194,
+    "Feedback_Score": 1.43,
+    "Organizer": "Govt",
+    "Details": "{\"channels\": [\"Online\", \"In-person\"], \"follow_up\": null}"
+  },
+  {
+    "State": "LADAKH",
+    "Year": 2022,
+    "Program_Type": "Awareness Camp",
+    "People_Reached": 6463,
+    "Feedback_Score": 3.38,
+    "Organizer": "Private",
+    "Details": "{\"channels\": [\"In-person\", \"Online\"], \"follow_up\": false}"
+  }
+]
